@@ -60,7 +60,7 @@ Whether you learn something thanks to one of your peer's comments, or you were i
 
 #### Be proactive
 
-If the PR is complex, write a general comment to give an overview of the context and the choices being made.
+If the PR is complex, write a general comment to give an overview of the context, the prupose of the PR and relevant details about the choices being made.
 
 If there's a lot changes (e.g. a refactoring task), hightlight the most important parts of the code.
 
