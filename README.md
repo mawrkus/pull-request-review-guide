@@ -68,17 +68,19 @@ If there's a lot changes (e.g. a refactoring task), hightlight the most importan
 
 #### Empathize
 
-Writing Software is a discovery process, in the sense that we try to figure out the problem at hands and how to solve it in the best way.
+Writing Software is a discovery process, in the sense that we try to figure out the problem at hands and how to solve it in the best way. As we all have different levels of experience and expertise, it's natural that some of us will suggest "better" solutions than others.
 
-As we all have different levels of experience and expertise, it's natural that some of us will suggest "better" solutions than others.
-
-Try to understand the reasons behind their choices, not to blame them ,you might also learn something in the process!
+Try to understand the reasons behind their choices, not blaming them, you might also learn something in the process!
 
 Eventually, this is your personal responsibility to use your own experience and expertise to help the authors. We are humans, not machines. Be kind.
 
 #### Use appropriate phrasing
 
-A bit of psychology cannot hurt: don't use the imperative, don't curse, don't impose, don't be sarcastic. Suggest, ask questions, be kind, encourage.
+A bit of psychology cannot hurt: don't use the imperative, don't curse, don't impose, don't be sarcastic. Ask questions, suggest, be kind, encourage.
+
+#### Don't take it personnally
+
+There's a difference between what you do and who you are. As a Software Craftsman, how you do what you do can always be improved, constructive and respectful criticism will usually help. But keep in mind that it's not about a better version of you, it's about a better craft.
 
 ## Resources
 
