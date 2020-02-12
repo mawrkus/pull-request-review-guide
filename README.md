@@ -52,6 +52,10 @@ If it's the case, schedule a quick meeting with your peer instead of writing a n
 
 Once discussed, add a concise comment to share the agreement with the everyone.
 
+#### Give your thanks
+
+Whether you learn something thanks to one of your peer's comments, or you were invited to a PR that fixes an issue that no one wanted to fix, or just because you want to congratulate your colleague's effort, just say: "thank you!", it's a big deal.
+
 ### For the authors
 
 #### Be proactive
