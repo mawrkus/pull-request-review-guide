@@ -1,5 +1,8 @@
 # Guidelines for better, faster pull request review
 
+- Pull request (PR) review is a learning process, for both authors AND reviewers.
+- PR review must always be done in a respectful way: we are humans, not machines.
+
 ## Profiles
 
 - The terrorist
@@ -44,6 +47,8 @@
 #### Explain why
 
 When you suggest something, explain why, it will make clear for everyone to understand as they are not living in your head. Having a clear understanding of what you mean could help having better, more meaningful conversations and will save a lot of time.
+
+Whenever possible, add a link to relevant documentation, GitHub repository, blog post, etc. to help understand your comment.
 
 #### Stop the "reply" hemorragy
 
