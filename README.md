@@ -41,6 +41,10 @@
 
 ### For both authors and reviewers
 
+#### Explain why
+
+When you suggest something, explain why, it will make clear for everyone to understand as they are not living in your head. Having a clear understanding of what you mean could help having better, more meaningful conversations and will save a lot of time.
+
 #### Stop the "reply" hemorragy
 
 The need for face to face conversation increases with the number of replies to a comment.
@@ -64,11 +68,13 @@ Writing Software is a discovery process, in the sense that we try to figure out 
 
 As we all have different levels of experience and expertise, it's natural that some of us will suggest "better" solutions than others.
 
-This is your personal responsibility to use your own experience and expertise to help the authors, not to blame them. We are humans, not machines. Be kind.
+Try to understand the reasons behind their choices, not to blame them ,you might also learn something in the process!
+
+Eventually, this is your personal responsibility to use your own experience and expertise to help the authors. We are humans, not machines. Be kind.
 
 #### Use appropriate phrasing
 
-A bit of psychology cannot hurt: don't use the imperative, don't curse, don't impose. Suggest, ask questions and if you suggest something better, explain why you think it's better.
+A bit of psychology cannot hurt: don't use the imperative, don't curse, don't impose, don't be sarcastic. Suggest, ask questions, be kind, encourage.
 
 ## Resources
 
