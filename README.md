@@ -27,18 +27,23 @@
 
 ### 2
 
-> James:
+> Jamie:
 > Do we really need this? I don’t see the gain
 >
 > Billy:
 > It’s a polyfill used in lazyLoad.js
 >
-> James:
+> Jamie:
 > Yes I got that, but why not importing there instead of here… I know that the import is not executed always in lazyload.js, but I see it weird.. Maybe a require() instead?
 >
 > Billy:
 > Good point, I don’t know actually!
 > I’ll make some tests.
+
+### 3
+
+> Alan:
+> Maybe it is time to stop the tradition of providing all the arguments as props
 
 ## Guidelines
 
@@ -69,6 +74,10 @@ If the PR is complex, write a general comment to give an overview of the context
 
 If there's a lot changes (e.g. a refactoring task), hightlight the most important parts of the code.
 
+#### Don't take it personnally
+
+There's a difference between what you do and who you are. As a Software Craftsman, how you do what you do can always be improved, constructive and respectful criticism will usually help. But keep in mind that it's not about a better version of you, it's about a better craft.
+
 ### For the reviewers
 
 #### Empathize
@@ -83,9 +92,9 @@ Eventually, this is your personal responsibility to use your own experience and 
 
 A bit of psychology cannot hurt: don't use the imperative, don't curse, don't impose, don't be sarcastic. Ask questions, suggest, be kind, encourage.
 
-#### Don't take it personnally
+### Be specific, be clear
 
-There's a difference between what you do and who you are. As a Software Craftsman, how you do what you do can always be improved, constructive and respectful criticism will usually help. But keep in mind that it's not about a better version of you, it's about a better craft.
+If you suggest something, don't be vague. Even your suggestion seems trivial, it might be interpreted by the author in the wrong way. Clarity dissipes doubts and keep to the point.
 
 ## Resources
 
