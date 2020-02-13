@@ -9,7 +9,7 @@
 - The picky
 - The "checked" bot
 
-## Examples
+## Situations
 
 ### 1
 
@@ -51,16 +51,14 @@
 
 #### Explain why
 
-When you suggest something, explain why, it will make clear for everyone to understand as they are not living in your head. Having a clear understanding of what you mean could help having better, more meaningful conversations and will save a lot of time.
-
-Whenever possible, add a link to relevant documentation, GitHub repository, blog post, etc. to help understand your comment.
+When you suggest something, explain why, it will make clear for everyone to understand as they are not living in your head. Having a clear understanding of why you made this suggestion will help having better, more meaningful conversations and will save a lot of time.
 
 #### Stop the "reply" hemorragy
 
 The need for face to face conversation increases with the number of replies to a comment.
 If it's the case, schedule a quick meeting with your peer instead of writing a novel in the PR that will create noise for everyone.
 
-Once discussed, add a concise comment to share the agreement with the everyone.
+Once discussed, add a concise comment to share the agreement with everyone.
 
 #### Give your thanks
 
@@ -70,13 +68,13 @@ Whether you learn something thanks to one of your peer's comments, or you were i
 
 #### Be proactive
 
-If the PR is complex, write a general comment to give an overview of the context, the prupose of the PR and relevant details about the choices being made.
+If the PR is complex, write a general comment to give an overview of the context, the purpose of the PR and relevant information about the choices being made.
 
 If there's a lot changes (e.g. a refactoring task), hightlight the most important parts of the code.
 
 #### Don't take it personnally
 
-There's a difference between what you do and who you are. As a Software Craftsman, how you do what you do can always be improved, constructive and respectful criticism will usually help. But keep in mind that it's not about a better version of you, it's about a better craft.
+There's a difference between what you do and who you are. As a Software Craftsman, the way you do what you do can always be improved. Constructive and respectful criticism can always help. But keep in mind that it's not about a better version of you, it's about a better craft.
 
 ### For the reviewers
 
@@ -94,7 +92,9 @@ A bit of psychology cannot hurt: don't use the imperative, don't curse, don't im
 
 ### Be specific, be clear
 
-If you suggest something, don't be vague. Even your suggestion seems trivial, it might be interpreted by the author in the wrong way. Clarity dissipes doubts and keep to the point.
+Try not to be vague. Even if your comment seems straightforward, it might be interpreted by the author in a very different way. Clarity dissipes doubts and keep to the point.
+
+Whenever possible, add a link to relevant documentation, a blog post on the topic, a GitHub repository, etc. to support your comment.
 
 ## Resources
 
