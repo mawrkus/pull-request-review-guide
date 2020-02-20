@@ -3,12 +3,6 @@
 - Pull request (PR) review is a learning process, for both authors AND reviewers.
 - PR review must always be done in a respectful way: we are humans, not machines.
 
-## Profiles
-
-- The terrorist
-- The picky
-- The "checked" bot
-
 ## Situations
 
 ### 1
@@ -45,6 +39,20 @@
 > Alan:
 > Maybe it is time to stop the tradition of providing all the arguments as props
 
+### 4
+
+> Alan
+> I'm not sure if it's a good idea to return to this, it's a screenshot from project X
+>
+> Billy
+> It’s not human-friendly indeed. But do we need human-friendly?
+>
+> Alan
+> Yes
+>
+> Jamie
+> Do you know why?
+
 ## Guidelines
 
 ### For both authors and reviewers
@@ -76,6 +84,15 @@ If there's a lot changes (e.g. a refactoring task), hightlight the most importan
 
 There's a difference between what you do and who you are. As a Software Craftsman, the way you do what you do can always be improved. Constructive and respectful criticism can always help. But keep in mind that it's not about a better version of you, it's about a better craft.
 
+#### Choose the right number of reviewers
+
+Prevent too many comments, when each one wants to add his little stone.
+
+Prevent no comments, when everyone thinks everyone will write comments, so no need to do it.
+
+Start: few
+Later: more for visibility
+
 ### For the reviewers
 
 #### Empathize
@@ -95,6 +112,12 @@ A bit of psychology cannot hurt: don't use the imperative, don't curse, don't im
 Try not to be vague. Even if your comment seems straightforward, it might be interpreted by the author in a very different way. Clarity dissipes doubts and keep to the point.
 
 Whenever possible, add a link to relevant documentation, a blog post on the topic, a GitHub repository, etc. to support your comment.
+
+## Profiles
+
+- The terrorist
+- The picky
+- The "checked" bot
 
 ## Resources
 
