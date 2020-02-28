@@ -3,56 +3,6 @@
 - Pull request (PR) review is a learning process, for both authors AND reviewers.
 - PR review must always be done in a respectful way: we are humans, not machines.
 
-## Situations
-
-### 1
-
-> Alan:
-> Please dont do this, you are actually creating a layer that the application does not require, and don't say that is temporary, because it isn't
->
-> Billy:
-> I don't understand
->
-> Alan:
-> That you don't need the copy-paste that you are doing
->
-> Billy:
-> Let’s talk, your comment does not help me understand.
-
-### 2
-
-> Jamie:
-> Do we really need this? I don’t see the gain
->
-> Billy:
-> It’s a polyfill used in lazyLoad.js
->
-> Jamie:
-> Yes I got that, but why not importing there instead of here… I know that the import is not executed always in lazyload.js, but I see it weird.. Maybe a require() instead?
->
-> Billy:
-> Good point, I don’t know actually!
-> I’ll make some tests.
-
-### 3
-
-> Alan:
-> Maybe it is time to stop the tradition of providing all the arguments as props
-
-### 4
-
-> Alan
-> I'm not sure if it's a good idea to return to this, it's a screenshot from project X
->
-> Billy
-> It’s not human-friendly indeed. But do we need human-friendly?
->
-> Alan
-> Yes
->
-> Jamie
-> Do you know why?
-
 ## Guidelines
 
 ### For both authors and reviewers
@@ -112,6 +62,61 @@ A bit of psychology cannot hurt: don't use the imperative, don't curse, don't im
 Try not to be vague. Even if your comment seems straightforward, it might be interpreted by the author in a very different way. Clarity dissipes doubts and keep to the point.
 
 Whenever possible, add a link to relevant documentation, a blog post on the topic, a GitHub repository, etc. to support your comment.
+
+## Interactions
+
+### 1
+
+> Alan:
+> Please dont do this, you are actually creating a layer that the application does not require, and don't say that is temporary, because it isn't
+>
+> Billy:
+> I don't understand
+>
+> Alan:
+> That you don't need the copy-paste that you are doing
+>
+> Billy:
+> Let’s talk, your comment does not help me understand.
+
+### 2
+
+> Jamie:
+> Do we really need this? I don’t see the gain
+>
+> Billy:
+> It’s a polyfill used in lazyLoad.js
+>
+> Jamie:
+> Yes I got that, but why not importing there instead of here… I know that the import is not executed always in lazyload.js, but I see it weird.. Maybe a require() instead?
+>
+> Billy:
+> Good point, I don’t know actually!
+> I’ll make some tests.
+
+### 3
+
+> Alan:
+> Maybe it is time to stop the tradition of providing all the arguments as props
+
+### 4
+
+> Alan
+> I'm not sure if it's a good idea to return to this, it's a screenshot from project X
+>
+> Billy
+> It’s not human-friendly indeed. But do we need human-friendly?
+>
+> Alan
+> Yes
+>
+> Jamie
+> Do you know why?
+
+### 5
+
+> Evan
+> Do you want to keep this line?
 
 ## Profiles
 
