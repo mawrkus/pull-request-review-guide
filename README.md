@@ -16,18 +16,19 @@
 Always be considerate and respectful, specifically:
 
 - don't use the imperative,
-- don't blame (don't curse),
+- don't judge,
+- don't blame (don't even think about cursing),
 - don't be sarcastic.
 
 Instead:
 
-- ask questions, avoiding judgment and assumptions about the author's perspective,
+- ask questions, assuming that everyone is intelligent and well-meaning,
 - explain your point of view in an explicit manner, even if it's a bit more verbose,
 - suggest.
 
 Respect and clarity dissipe all doubts and frictions. They help having better, more meaningful conversations and will save a lot of time.
 
-#### Stop the "reply" hemorragy / Don't write a novel
+#### Stop the "reply" hemorragy / Offer to talk in person
 
 Many replies to a comment might be the symptom of miscommunication, misunderstanding or lack of knowledge. This usually creates noise for everyone involved in the review. Should it be the case, offer to talk in person to clarify the topic under discussion, to agree on the solution and/or to pair on any changes suggested.
 
@@ -66,7 +67,13 @@ You could start with a few core reviewers and when everything has been reviewd p
 
 Always consider the potential impact of your words, not just their original intent. Take some time to write comments that are not only helpful but also kind.
 
-#### Help the author / Don't blame (their choices)
+#### Avoid selective ownership
+
+Instead of: "your", "mine", "not mine", use ""our".
+
+Rephrase any comment using "we".
+
+#### Help the author / Try to understand their choices
 
 Writing Software is a discovery process, in the sense that we try to figure out the problem at hands and how to solve it in the best way.
 
@@ -74,7 +81,7 @@ As we all have different levels of experience and expertise, it's natural that s
 
 Try to understand the reasons behind their choices, not to blame them, you might also learn something in the process!
 
-Eventually, this is your personal responsibility to use your own experience and expertise to help the authors. We are humans, not machines. Be kind.
+Eventually, this is your personal responsibility to use your own experience and expertise to help the author. We are humans, not machines. Be kind.
 
 ### Provide code samples / Provide references
 
@@ -172,3 +179,4 @@ Missing: Explain Why - Suggest
 - "Code Reviews: Just Do It": https://blog.codinghorror.com/code-reviews-just-do-it/
 - "How to Do Code Reviews Like a Human (Part One)": https://mtlynch.io/human-code-reviews-1/
 - "Code Review — The Ultimate Guide": https://www.freecodecamp.org/news/code-review-the-ultimate-guide-aa45c358bbf5/
+- Again: http://www.alexandra-hill.com/2018/06/25/
