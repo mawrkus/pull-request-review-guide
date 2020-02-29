@@ -11,13 +11,21 @@
 
 ### 🤝 For both authors and reviewers
 
-#### Explain why, be explicit / Avoid ambiguity and vagueness
+#### Be respectful / Ask - Explain - Suggest
 
-When you suggest something, explain why.
+Always be considerate and respectful, specifically:
 
-Remember that, even if your suggestion seems straightforward, it might be interpreted by the author in a very different way. Take some time to fully explain your idea in an explicit manner, even if it's a bit more verbose.
+- don't use the imperative,
+- don't blame (don't curse),
+- don't be sarcastic.
 
-Clarity dissipes all doubts. Having a clear understanding of why you made this suggestion will help having better, more meaningful conversations and will save a lot of time.
+Instead:
+
+- ask questions, avoiding judgment and assumptions about the author's perspective,
+- explain your point of view in an explicit manner, even if it's a bit more verbose,
+- suggest.
+
+Respect and clarity dissipe all doubts and frictions. They help having better, more meaningful conversations and will save a lot of time.
 
 #### Stop the "reply" hemorragy / Don't write a novel
 
@@ -25,9 +33,9 @@ Many replies to a comment might be the symptom of miscommunication, misunderstan
 
 Once discussed, add a concise comment to share the agreement with everyone involved in the review.
 
-#### Give positive feedback / Recognize the work
+#### Give positive feedback / Say "thank you!"
 
-Whether you learn something thanks to one of your peer's comment or you were invited to a review that fixes an issue no one wanted to fix, or just to congratulate the good work, just say: "thank you!", it makes a huge difference to receive positive feedback.
+Whether you learn something thanks to one of your peer's comment or you were invited to a review that fixes an issue no one wanted to fix, or just to congratulate the good work, just say: "thank you!", it makes a huge difference to receive positive feedback!
 
 ### 🖋️ For the authors
 
@@ -39,7 +47,9 @@ If there are many changes, highlight the most important parts.
 
 #### Don't take it personnally / Take some distance
 
-There's a difference between who you are and what you do. What you do can always be improved. Constructive and respectful criticism can always help. If you feel hurt by a comment, take some distance and try to keep in mind that it's not about a better version of you, it's about a better software craft.
+There's a difference between who you are and what you do. What you do can always be improved through constructive and respectful criticism.
+
+If you feel hurt by a comment, take some distance, try to see it through the eyes of the reviewer and to keep in mind that it's not about a better version of you, it's about a better software craft.
 
 #### Choose the right number of reviewers
 
@@ -55,20 +65,6 @@ You could start with a few core reviewers and when everything has been reviewd p
 #### Empathize / The other person is you
 
 Always consider the potential impact of your words, not just their original intent. Take some time to write comments that are not only helpful but also kind.
-
-#### Be respectful / Use appropriate phrasing
-
-A bit of psychology cannot hurt, specifically:
-
-- don't use the imperative,
-- don't curse,
-- don't be sarcastic.
-
-Instead, you can:
-
-- ask questions,
-- suggest,
-- encourage.
 
 #### Help the author / Don't blame (their choices)
 
@@ -167,11 +163,10 @@ Missing: Explain Why - Suggest
 ## 📔 Resources
 
 - "The Art of Giving and Receiving Code Reviews (Gracefully)": http://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/
+- "8 Causes of Miscommunication and Misunderstanding" https://www.userlike.com/en/blog/causes-of-miscommunication
 
 ### To check
 
-- https://thoughtbot.com/blog/five-tips-for-more-helpful-code-reviews
-- https://github.com/thoughtbot/guides/tree/master/code-review
 - "A practical guide for conducting efficient code reviews": https://www.heartinternet.uk/blog/a-practical-guide-for-conducting-efficient-code-reviews/
 - "Code Review Developer Guide": https://google.github.io/eng-practices/review/
 - "Code Reviews: Just Do It": https://blog.codinghorror.com/code-reviews-just-do-it/
