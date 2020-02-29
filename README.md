@@ -108,7 +108,7 @@ Remember that you are in the review to provide feedback, not to be a gatekeeper.
 
 At the end, this is your personal responsibility to use your own experience and expertise to help the author. We are humans, not machines. A little help is always appreciated!
 
-### Provide code samples / Provide references
+#### Provide code samples / Provide references
 
 Don't assume the author knows exactly what you are talking about. When necessary, consider adding:
 
@@ -119,6 +119,10 @@ Don't assume the author knows exactly what you are talking about. When necessary
 - a link to a GitHub repository.
 
 This will provide a nice support to your comment/suggestion and will certainly benefit all the persons participating in the review.
+
+#### Review test code first
+
+Tests are mini use cases of the code that you can drill into. It will help you understand the intent of the author very quickly (could be just by looking at the names of the tests).
 
 ## 📔 Interactions
 
