@@ -78,7 +78,11 @@ Small successive PRs, each one focused on a single change will usually result in
 
 If the need for a refactoring or substantial changes arise during the review, create directly a new task and add a link to it in the review.
 
-Remember that, the longer the time a review takes, the higher are the risks for having to fix conflicts and to deal with a decrease in motivation.
+Remember that, the longer a review takes, the higher are the risks for merge conflicts and decrease in motivation.
+
+#### Answer all comments / Write the end of the story
+
+As matter of respect for the reviewers (after all, they are spending time and energy to help you) and because a review is a conversation and as such, it should have a conlusion.
 
 ### 👓 For the reviewers
 
