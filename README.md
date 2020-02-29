@@ -74,6 +74,12 @@ You could start with a few core reviewers and when everything has been reviewd p
 
 Small successive PRs, each one focused on a single change will usually result in faster reviews. Always try to organize your work in order to be able to break a complex task into a succession of simpler ones. The reviewers will thank you!
 
+#### Rome wasn't built in a day / Create new tasks
+
+If the need for a refactoring or substantial changes arise during the review, create directly a new task and add a link to it in the review.
+
+Remember that, the longer the time a review takes, the higher are the risks for having to fix conflicts and to deal with a decrease in motivation.
+
 ### 👓 For the reviewers
 
 #### Empathize / The other person is you
