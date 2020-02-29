@@ -18,6 +18,7 @@ Always be considerate and respectful, specifically:
 - don't use the imperative,
 - don't judge,
 - don't blame (don't even think about cursing),
+- don't be arrogant,
 - don't be sarcastic.
 
 Instead:
@@ -26,25 +27,29 @@ Instead:
 - explain your point of view in an explicit manner, even if it's a bit more verbose,
 - suggest.
 
-Respect removes all frictions. Clarity dissipe all doubts about your intentions. Suggesting creates the conditions for improvements.
+Respect and humility remove all frictions. Clarity dissipes all doubts about your intentions. Suggesting creates the conditions for improvements.
 
-They help having better, more meaningful conversations and saving a lot of time and energy.
+They help having better, more meaningful conversations and will save a lot of time and energy.
 
 #### Stop the "reply" hemorragy / Offer to talk in person
 
-Many replies to a comment might be the symptom of miscommunication, misunderstanding or lack of knowledge. This usually creates noise for everyone involved in the review. Should it be the case, offer to talk in person to clarify the topic under discussion, to agree on the solution and/or to pair on any changes suggested.
+Many replies to a comment might be the symptom of miscommunication, misunderstanding or lack of knowledge. This usually creates noise for everyone participating in the review.
 
-Once discussed, add a concise comment to share the agreement with everyone involved in the review.
+Should it be the case, offer to talk in person to clarify the topic under discussion, to agree on the solution and/or to pair on any changes suggested.
+
+Once discussed, add a concise comment to share the agreement with everyone.
 
 #### Give positive feedback / Say "thank you!"
 
-Whether you learn something thanks to one of your peer's comment or you were invited to a review that fixes an issue no one wanted to fix, or just to congratulate the good work, just say: "thank you!", it makes a huge difference to receive positive feedback!
+Whether you learn something thanks to one of your peer's comment or you were invited to a review that fixes an issue no one wanted to fix, or just to congratulate the good work, just say: "thank you!".
+
+It makes a huge difference to receive positive feedback!
 
 ### 🖋️ For the authors
 
 #### Be proactive / Help the reviewers
 
-If the PR is complex, write a general comment to explain its purpose, to give an overview of the changes being made and to share any relevant information about your choices. It will help the reviewers dive in the review without much effort, which will certainly result in less comments and a faster review.
+If the PR is complex, write a general comment to explain its purpose, to give an overview of the changes being made and to share any relevant information about your choices. It will help the reviewers dive in the review without effort, which will certainly result in less comments and a faster review.
 
 If there are many changes, highlight the most important parts.
 
