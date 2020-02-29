@@ -33,11 +33,11 @@ They help having better, more meaningful conversations and will save a lot of ti
 
 #### Stop the "reply" hemorragy / Offer to talk in person
 
-Many replies to a comment might be the symptom of miscommunication, misunderstanding or lack of knowledge. This usually creates noise for everyone participating in the review.
+Many replies to a comment might be the symptom of miscommunication, misunderstanding or lack of knowledge. This creates noise for everyone participating in the review.
 
 Should it be the case, offer to talk in person to clarify the topic under discussion, to agree on the solution and/or to pair on any changes suggested.
 
-Once discussed, add a concise comment to share the agreement with everyone.
+Once done, post a concise comment to summarize the conversation and to share the agreement with everyone.
 
 #### Give positive feedback / Say "thank you!"
 
