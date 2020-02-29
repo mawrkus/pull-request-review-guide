@@ -39,7 +39,7 @@ Should it be the case, offer to talk in person to clarify the topic under discus
 
 Once done, post a concise comment to summarize the conversation and to share the agreement with everyone.
 
-#### Give positive feedback / Say "thank you!"
+#### Give positive feedback / Be grateful
 
 Whether you learn something thanks to one of your peer's comment or you were invited to a review that fixes an issue no one wanted to fix, or just to congratulate the good work, just say: "thank you!".
 
@@ -57,7 +57,9 @@ If there are many changes, highlight the most important parts.
 
 There's a difference between who you are and what you do. What you do can always be improved through constructive and respectful criticism.
 
-If you feel hurt by a comment, take some distance, try to see it through the eyes of the reviewer and to keep in mind that it's not about a better version of you, it's about a better software craft.
+If you feel hurt, take some distance, assume the best intention from the reviewer's comment and try to see it through their lenses.
+
+Always keep in mind that it's not about a better version of you, it's about a better software craft.
 
 #### Choose the right number of reviewers
 
@@ -178,6 +180,7 @@ Missing: Explain Why - Suggest
 
 - "The Art of Giving and Receiving Code Reviews (Gracefully)": http://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/
 - "8 Causes of Miscommunication and Misunderstanding" https://www.userlike.com/en/blog/causes-of-miscommunication
+- "A guide for reviewing code and having your code reviewed": https://github.com/thoughtbot/guides/tree/master/code-review
 
 ### To check
 
