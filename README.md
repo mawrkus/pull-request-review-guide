@@ -1,16 +1,16 @@
-# Practical guide for better, faster code reviews
+# A practical guide for better, faster code reviews
 
 > "A code review is a dialogue, but it is also a critique of a person’s work, and both reviewer and author should bear in mind the psychology of ownership and criticism. Some of the most valuable things that come up during code review are things which different developers can reasonably disagree about, and discussing such things is exactly how we learn and innovate." -- Alexandra Hill, The Art of Giving and Receiving Code Reviews (Gracefully)
 
-## Considerations
+## 📔 Considerations
 
 - A code review is a dialogue, and as such, it should always be done in a respectful and constructive way. We are humans, not machines.
 - A code review is a tool for learning and improvement, for both authors and reviewers.
 - Practically speaking, the purpose of code review should be to ensure that the quality standards agreed with your peers are met.
 
-## Guidelines
+## 📔 Guidelines
 
-### For both authors and reviewers
+### 🤝 For both authors and reviewers
 
 #### Explain why, be explicit / Avoid ambiguity and vagueness
 
@@ -28,7 +28,7 @@ Once discussed, add a concise comment to share the agreement with everyone invol
 
 Whether you learn something thanks to one of your peer's comments, or you were invited to a PR that fixes an issue that no one wanted to fix, or just to congratulate your colleague's effort, just say: "thank you!", it makes a huge difference.
 
-### For the authors
+### 🖋️ For the authors
 
 #### Be proactive / Help the reviewers
 
@@ -49,21 +49,11 @@ Having the right number of reviewers can prevent:
 
 You could start with a few core reviewers and when everything has been reviewd proprly, you could add more reviewers to give them visibility.
 
-### For the reviewers
+### 👓 For the reviewers
 
 #### Empathize / The other person is you
 
 Always consider the potential impact of your words, not just their original intent. Take some time to write comments that are not only helpful but also kind.
-
-#### Help the author / Don't blame their choices
-
-Writing Software is a discovery process, in the sense that we try to figure out the problem at hands and how to solve it in the best way.
-
-As we all have different levels of experience and expertise, it's natural that some of us will suggest "better" solutions than others.
-
-Try to understand the reasons behind their choices, not to blame them, you might also learn something in the process!
-
-Eventually, this is your personal responsibility to use your own experience and expertise to help the authors. We are humans, not machines. Be kind.
 
 #### Be respectful / Use appropriate phrasing
 
@@ -79,6 +69,16 @@ Instead, you can:
 - suggest,
 - encourage.
 
+#### Help the author / Don't blame (their choices)
+
+Writing Software is a discovery process, in the sense that we try to figure out the problem at hands and how to solve it in the best way.
+
+As we all have different levels of experience and expertise, it's natural that some of us will suggest "better" solutions than others.
+
+Try to understand the reasons behind their choices, not to blame them, you might also learn something in the process!
+
+Eventually, this is your personal responsibility to use your own experience and expertise to help the authors. We are humans, not machines. Be kind.
+
 ### Provide code samples / Provide references
 
 To help the author fully understand your comment/suggestion, consider adding:
@@ -89,7 +89,7 @@ To help the author fully understand your comment/suggestion, consider adding:
 - a GitHub repository,
 - a video.
 
-## Interactions
+## 📔 Interactions
 
 ### 1
 
@@ -104,6 +104,8 @@ To help the author fully understand your comment/suggestion, consider adding:
 >
 > Billy:
 > Let’s talk, your comment does not help me understand.
+
+Missing: Ask - Explain Why - Suggest
 
 ### 2
 
@@ -120,38 +122,46 @@ To help the author fully understand your comment/suggestion, consider adding:
 > Good point, I don’t know actually!
 > I’ll make some tests.
 
+Present: Ask - Explain Why - Suggest
+
 ### 3
 
 > Alan:
 > Maybe it is time to stop the tradition of providing all the arguments as props.
 
+Missing: Ask - Explain Why - Suggest
+
 ### 4
 
-> Alan
+> Alan:
 > I'm not sure if it's a good idea to return to this, it's a screenshot from project X.
 >
-> Billy
+> Billy:
 > It’s not human-friendly indeed. But do we need human-friendly?
 >
-> Alan
+> Alan:
 > Yes.
 >
 > Jamie
 > Do you know why?
 
+Missing: Ask - Explain Why - Suggest
+
 ### 5
 
-> Evan
+> Evan:
 > Do you want to keep this line?
 
-## Profiles
+Missing: Explain Why - Suggest
+
+## 📔 Profiles
 
 - The terrorist
 - The picky
 - The "checked" bot
 - The vague
 
-## Resources
+## 📔 Resources
 
 - "The Art of Giving and Receiving Code Reviews (Gracefully)": http://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/
 
