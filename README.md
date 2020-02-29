@@ -57,7 +57,7 @@ If there are many changes, highlight the most important parts.
 
 There's a difference between who you are and what you do. What you do can always be improved through constructive and respectful criticism.
 
-If you feel hurt, take some distance, assume the best intention from the reviewer's comment and try to see it through their lenses.
+If you feel hurt, take some distance, assume the best intention from the reviewer's comment and try to see it through their lens.
 
 Always keep in mind that it's not about a better version of you, it's about a better software craft.
 
@@ -69,6 +69,10 @@ Having the right number of reviewers can prevent:
 - too few comments, when everyone thinks someone will take care of writing comments.
 
 You could start with a few core reviewers and when everything has been reviewd proprly, you could add more reviewers to give them visibility.
+
+#### Keep them small / Divide and conquer
+
+Small successive PRs, each one focused on a single change will usually result in faster reviews. Always try to organize your work in order to be able to break a complex task into a succession of simpler ones. The reviewers will thank you!
 
 ### 👓 For the reviewers
 
