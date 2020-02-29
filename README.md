@@ -26,7 +26,9 @@ Instead:
 - explain your point of view in an explicit manner, even if it's a bit more verbose,
 - suggest.
 
-Respect and clarity dissipe all doubts and frictions. They help having better, more meaningful conversations and will save a lot of time.
+Respect removes all frictions. Clarity dissipe all doubts about your intentions. Suggesting creates the conditions for improvements.
+
+They help having better, more meaningful conversations and saving a lot of time and energy.
 
 #### Stop the "reply" hemorragy / Offer to talk in person
 
