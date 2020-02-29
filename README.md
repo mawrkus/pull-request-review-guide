@@ -104,7 +104,7 @@ As we all have different levels of experience and expertise, it's natural that s
 
 Try to understand the reasons behind their choices, seek to understand their perspective, you might also learn something in the process!
 
-Eventually, this is your personal responsibility to use your own experience and expertise to help the author. We are humans, not machines. Be kind.
+Eventually, this is your personal responsibility to use your own experience and expertise to help the author. We are humans, not machines. A little help is always appreciated.
 
 ### Provide code samples / Provide references
 
