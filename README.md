@@ -20,7 +20,7 @@ Remember that, even if your suggestion seems straightforward, it might be interp
 
 #### Stop the "reply" hemorragy / Don't write a novel
 
-Many replies to a comment might be the symptom of miscommunication/misunderstanding. This usually creates noise for everyone involved in the review. Should it be the case, schedule a quick face to face meeting with your peer to clarify the topic under discussion.
+Many replies to a comment might be the symptom of miscommunication, misunderstanding or lack of knowledge. This usually creates noise for everyone involved in the review. Should it be the case, offer to talk in person to clarify the topic under discussion, to agree on the solution and/or to pair on any changes suggested.
 
 Once discussed, add a concise comment to share the agreement with everyone involved in the review.
 
