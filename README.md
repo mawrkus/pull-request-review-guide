@@ -81,15 +81,15 @@ Eventually, this is your personal responsibility to use your own experience and 
 
 ### Provide code samples / Provide references
 
-When you judge it necessary, consider adding:
+Don't assume the author knows exactly what you are talking about. When necessary, consider adding:
 
 - a code sample,
 - a link to relevant documentation,
-- a blog post on the topic,
-- a GitHub repository,
-- a video.
+- a link to a previous review,
+- a link to a blog post on the topic,
+- a link to a GitHub repository.
 
-This will be a nice support to your comment/suggestion and will certainly benefit all the persons participating in the review.
+This will provide a nice support to your comment/suggestion and will certainly benefit all the persons participating in the review.
 
 ## 📔 Interactions
 
