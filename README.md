@@ -94,9 +94,9 @@ Always consider the potential impact of your words, not just their original inte
 
 Instead of: "your", "mine", "not mine", use ""our".
 
-Rephrase any comment using "we".
+Rephrase any comment using "we". Be inclusive, showing that you share ownership of the code being modified.
 
-#### Help the author / Seek to understand the author's perspective
+#### Help the author / Don't be a gatekeeper
 
 Writing Software is a discovery process, in the sense that we try to figure out the problem at hands and how to solve it in the best way.
 
@@ -104,7 +104,9 @@ As we all have different levels of experience and expertise, it's natural that s
 
 Try to understand the reasons behind their choices, seek to understand their perspective, you might also learn something in the process!
 
-Eventually, this is your personal responsibility to use your own experience and expertise to help the author. We are humans, not machines. A little help is always appreciated.
+Remember that you are in the review to provide feedback, not to be a gatekeeper.
+
+At the end, this is your personal responsibility to use your own experience and expertise to help the author. We are humans, not machines. A little help is always appreciated!
 
 ### Provide code samples / Provide references
 
