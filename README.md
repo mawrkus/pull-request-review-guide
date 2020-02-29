@@ -19,7 +19,7 @@ Always be considerate and respectful, specifically:
 - don't judge,
 - don't blame (don't even think about cursing),
 - don't be arrogant,
-- don't be sarcastic.
+- don't use sarcasm.
 
 Instead:
 
