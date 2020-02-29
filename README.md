@@ -1,4 +1,4 @@
-# Practical guide for better, faster pull request review
+# Practical guide for better, faster code reviews
 
 > "A code review is a dialogue, but it is also a critique of a person’s work, and both reviewer and author should bear in mind the psychology of ownership and criticism. Some of the most valuable things that come up during code review are things which different developers can reasonably disagree about, and discussing such things is exactly how we learn and innovate." -- Alexandra Hill, The Art of Giving and Receiving Code Reviews (Gracefully)
 
@@ -12,9 +12,11 @@
 
 ### For both authors and reviewers
 
-#### Explain why / Be explicit
+#### Explain why, be explicit / Avoid ambiguity and vagueness
 
 When you suggest something, explain why. Having a clear understanding of why you made this suggestion will help having better, more meaningful conversations and will save a lot of time.
+
+Remember that, even if your suggestion seems straightforward, it might be interpreted by the author in a very different way. Take some time to fully explain your idea in an explicit and concise manner. Clarity dissipes all doubts.
 
 #### Stop the "reply" hemorragy / Don't write a novel
 
@@ -77,11 +79,7 @@ Instead, you can:
 - suggest,
 - encourage.
 
-### Be explicit, be clear / Avoid ambiguity and vagueness
-
-Even if your comment seems straightforward, it might be interpreted by the author in a very different way. Take some time to fully explain your suggestion in a concise manner. Clarity dissipes all doubts.
-
-### Provide code sample / Provide references
+### Provide code samples / Provide references
 
 To help the author fully understand your comment/suggestion, consider adding:
 
