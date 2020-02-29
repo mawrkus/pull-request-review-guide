@@ -5,8 +5,7 @@
 ## 📔 Considerations
 
 - A code review is a dialogue, and as such, it should always be done in a respectful and constructive way. We are humans, not machines.
-- A code review is a tool for learning and improvement, for both authors and reviewers.
-- Practically speaking, the purpose of code review should be to ensure that the quality standards agreed with your peers are met.
+- A code review is a collaborative tool for learning and improvement, for both authors and reviewers.
 
 ## 📔 Guidelines
 
@@ -14,9 +13,11 @@
 
 #### Explain why, be explicit / Avoid ambiguity and vagueness
 
-When you suggest something, explain why. Having a clear understanding of why you made this suggestion will help having better, more meaningful conversations and will save a lot of time.
+When you suggest something, explain why.
 
-Remember that, even if your suggestion seems straightforward, it might be interpreted by the author in a very different way. Take some time to fully explain your idea in an explicit manner, even if it's a bit more verbose. Clarity dissipes all doubts.
+Remember that, even if your suggestion seems straightforward, it might be interpreted by the author in a very different way. Take some time to fully explain your idea in an explicit manner, even if it's a bit more verbose.
+
+Clarity dissipes all doubts. Having a clear understanding of why you made this suggestion will help having better, more meaningful conversations and will save a lot of time.
 
 #### Stop the "reply" hemorragy / Don't write a novel
 
