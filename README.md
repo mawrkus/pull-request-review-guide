@@ -40,32 +40,56 @@ There's a difference between who you are and what you do. What you do can always
 
 #### Choose the right number of reviewers
 
-Prevent too many comments, when each one wants to add his little stone.
+Having the right number of reviewers can prevent:
 
-Prevent no comments, when everyone thinks everyone will write comments, so no need to do it.
+- too many comments and/or too many suggestions going into too many different directions,
+- too few comments, when everyone thinks someone will take care of writing comments.
 
-Start: few
-Later: more for visibility
+You could start with a few core reviewers and when everything has been reviewd proprly, you could add more reviewers to give them visibility.
 
 ### For the reviewers
 
 #### Empathize / The other person is you
 
-Writing Software is a discovery process, in the sense that we try to figure out the problem at hands and how to solve it in the best way. As we all have different levels of experience and expertise, it's natural that some of us will suggest "better" solutions than others.
+Always consider the potential impact of your words, not just their original intent. Take some time to write comments that are not only helpful but also kind.
 
-Try to understand the reasons behind their choices, not blaming them, you might also learn something in the process!
+#### Help the author / Don't blame their choices
+
+Writing Software is a discovery process, in the sense that we try to figure out the problem at hands and how to solve it in the best way.
+
+As we all have different levels of experience and expertise, it's natural that some of us will suggest "better" solutions than others.
+
+Try to understand the reasons behind their choices, not to blame them, you might also learn something in the process!
 
 Eventually, this is your personal responsibility to use your own experience and expertise to help the authors. We are humans, not machines. Be kind.
 
 #### Be respectful / Use appropriate phrasing
 
-A bit of psychology cannot hurt: don't use the imperative, don't curse, don't impose, don't be sarcastic. Ask questions, suggest, be kind, encourage.
+A bit of psychology cannot hurt, specifically:
 
-### Be explicit / Be clear
+- don't use the imperative,
+- don't curse,
+- don't be sarcastic.
 
-Try not to be vague. Even if your comment seems straightforward, it might be interpreted by the author in a very different way. Clarity dissipes doubts and keep to the point.
+Instead, you can:
 
-Whenever possible, add a link to relevant documentation, a blog post on the topic, a GitHub repository, etc. to support your comment.
+- ask questions,
+- suggest,
+- encourage.
+
+### Be explicit, be clear / Avoid ambiguity and vagueness
+
+Even if your comment seems straightforward, it might be interpreted by the author in a very different way. Take some time to fully explain your suggestion in a concise manner. Clarity dissipes all doubts.
+
+### Provide code sample / Provide references
+
+To help the author fully understand your comment/suggestion, consider adding:
+
+- some code sample,
+- a link to relevant documentation,
+- a blog post on the topic,
+- a GitHub repository,
+- a video.
 
 ## Interactions
 
