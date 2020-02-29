@@ -16,7 +16,7 @@
 
 When you suggest something, explain why. Having a clear understanding of why you made this suggestion will help having better, more meaningful conversations and will save a lot of time.
 
-Remember that, even if your suggestion seems straightforward, it might be interpreted by the author in a very different way. Take some time to fully explain your idea in an explicit and concise manner. Clarity dissipes all doubts.
+Remember that, even if your suggestion seems straightforward, it might be interpreted by the author in a very different way. Take some time to fully explain your idea in an explicit manner, even if it's a bit more verbose. Clarity dissipes all doubts.
 
 #### Stop the "reply" hemorragy / Don't write a novel
 
@@ -24,9 +24,9 @@ Many replies to a comment might be the symptom of miscommunication/misunderstand
 
 Once discussed, add a concise comment to share the agreement with everyone involved in the review.
 
-#### Give your thanks / Recognize the effort
+#### Give positive feedback / Recognize the work
 
-Whether you learn something thanks to one of your peer's comments, or you were invited to a PR that fixes an issue that no one wanted to fix, or just to congratulate your colleague's effort, just say: "thank you!", it makes a huge difference.
+Whether you learn something thanks to one of your peer's comment or you were invited to a review that fixes an issue no one wanted to fix, or just to congratulate the good work, just say: "thank you!", it makes a huge difference to receive positive feedback.
 
 ### 🖋️ For the authors
 
@@ -81,13 +81,15 @@ Eventually, this is your personal responsibility to use your own experience and 
 
 ### Provide code samples / Provide references
 
-To help the author fully understand your comment/suggestion, consider adding:
+When you judge it necessary, consider adding:
 
-- some code sample,
+- a code sample,
 - a link to relevant documentation,
 - a blog post on the topic,
 - a GitHub repository,
 - a video.
+
+This will be a nice support to your comment/suggestion and will certainly benefit all the persons participating in the review.
 
 ## 📔 Interactions
 
