@@ -1,5 +1,7 @@
 # Guidelines for better, faster pull request review
 
+"A code review is a dialogue, but it is also a critique of a person’s work, and both reviewer and author should bear in mind the psychology of ownership and criticism. Some of the most valuable things that come up during code review are things which different developers can reasonably disagree about, and discussing such things is exactly how we learn and innovate." -- Alexandra Hill, The Art of Giving and Receiving Code Reviews (Gracefully)
+
 - Pull request (PR) review is a learning process, for both authors AND reviewers.
 - PR review must always be done in a respectful way: we are humans, not machines.
 
@@ -130,6 +132,9 @@ Whenever possible, add a link to relevant documentation, a blog post on the topi
 
 ### To check
 
+- https://thoughtbot.com/blog/five-tips-for-more-helpful-code-reviews
+- https://github.com/thoughtbot/guides/tree/master/code-review
+- "A practical guide for conducting efficient code reviews": https://www.heartinternet.uk/blog/a-practical-guide-for-conducting-efficient-code-reviews/
 - "Code Review Developer Guide": https://google.github.io/eng-practices/review/
 - "Code Reviews: Just Do It": https://blog.codinghorror.com/code-reviews-just-do-it/
 - "How to Do Code Reviews Like a Human (Part One)": https://mtlynch.io/human-code-reviews-1/
