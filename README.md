@@ -96,13 +96,13 @@ Instead of: "your", "mine", "not mine", use ""our".
 
 Rephrase any comment using "we".
 
-#### Help the author / Try to understand their choices
+#### Help the author / Seek to understand the author's perspective
 
 Writing Software is a discovery process, in the sense that we try to figure out the problem at hands and how to solve it in the best way.
 
 As we all have different levels of experience and expertise, it's natural that some of us will suggest "better" solutions than others.
 
-Try to understand the reasons behind their choices, not to blame them, you might also learn something in the process!
+Try to understand the reasons behind their choices, seek to understand their perspective, you might also learn something in the process!
 
 Eventually, this is your personal responsibility to use your own experience and expertise to help the author. We are humans, not machines. Be kind.
 
