@@ -90,7 +90,7 @@ As matter of respect for the reviewers (after all, they are spending time and en
 
 Always consider the potential impact of your words, not just their original intent. Take some time to write comments that are not only helpful but also kind.
 
-#### Avoid selective ownership
+#### Avoid selective ownership / It's ours
 
 Instead of: "your", "mine", "not mine", use ""our".
 
