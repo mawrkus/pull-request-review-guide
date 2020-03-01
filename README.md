@@ -47,6 +47,10 @@ It makes a huge difference to receive positive feedback!
 
 ### 🖋️ For the authors
 
+#### The first reviewer is... you
+
+After creating the pull request and before inviting anyone, take some time to review your own code. Seeing your changes outside of your IDE might help you spotting inconstencies, mistakes, missing parts, or even can help you finding easier ways to solve the problem at hand.
+
 #### Be proactive / Help the reviewers
 
 If the PR is complex, write a general comment to explain its purpose, to give an overview of the changes being made and to share any relevant information about your choices. It will help the reviewers dive in the review without effort, which can help having less comments and a faster review.
