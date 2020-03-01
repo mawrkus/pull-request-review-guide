@@ -27,7 +27,7 @@ Instead:
 - explain your point of view in an explicit manner, even if it's a bit more verbose,
 - suggest.
 
-Respect and humility remove all frictions. Clarity dissipes all doubts about your intentions. Suggesting creates the conditions for improvements.
+Respect and humility remove all frictions. Clarity dissipes all doubts about your intentions. Suggesting creates the conditions for improvement.
 
 They help having better, more meaningful conversations and will save a lot of time and energy.
 
