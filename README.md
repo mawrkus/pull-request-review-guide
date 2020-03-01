@@ -120,7 +120,9 @@ At the end, this is your personal responsibility to use your own experience and 
 
 #### Don't be a gatekeeper
 
-Remember that you are in the review to provide feedback, not to be a gatekeeper. (...)
+Remember that you are in the review to provide feedback, not to be a gatekeeper.
+
+(...)
 
 #### Provide code samples / Provide references
 
