@@ -29,11 +29,11 @@ Instead:
 
 Respect and humility remove all frictions. Clarity dissipes all doubts about your intentions. Suggesting creates the conditions for improvement.
 
-They help having better, more meaningful conversations and will save a lot of time and energy.
+At the end, the goal is to have better, more meaningful conversations and saving a lot of time and energy.
 
 #### Stop the "reply" hemorragy / Offer to talk in person
 
-Many replies to a comment might be the symptom of miscommunication, misunderstanding or lack of knowledge. This creates noise for everyone participating in the review.
+Many replies to a comment might be the symptom of miscommunication, misunderstanding or lack of knowledge. They can create a lot of noise for everyone participating in the review.
 
 Should it be the case, offer to talk in person to clarify the topic under discussion, to agree on the solution and/or to pair on any changes suggested.
 
@@ -49,9 +49,36 @@ It makes a huge difference to receive positive feedback!
 
 #### Be proactive / Help the reviewers
 
-If the PR is complex, write a general comment to explain its purpose, to give an overview of the changes being made and to share any relevant information about your choices. It will help the reviewers dive in the review without effort, which will certainly result in less comments and a faster review.
+If the PR is complex, write a general comment to explain its purpose, to give an overview of the changes being made and to share any relevant information about your choices. It will help the reviewers dive in the review without effort, which can help having less comments and a faster review.
 
 If there are many changes, highlight the most important parts.
+
+#### Choose your audience
+
+Take some time to choose the reviewers. Prior to inviting them, ask yourself:
+
+- Who could give me the best feedback?
+- Who has time to review my code?
+- Who should I give visibility of the changes being made?
+
+#### Choose the right number of reviewers
+
+Be inclusive, but not too much. Having a large number of reviewers could lead to:
+
+- too many comments and/or too many suggestions going into too many different directions,
+- too few comments, when everyone thinks someone will take care of reviewing.
+
+To prevent this, you can start with a few core reviewers to receive the main feedback, then add more people, to give them visibility.
+
+#### Keep it small / Divide and conquer
+
+Small successive PRs, each one focused on a single change can help having faster reviews. Always try to organize your work in order to be able to break a complex task into a succession of simpler ones. The reviewers will thank you for not stealing all their time!
+
+#### Rome wasn't built in a day / Create new tasks
+
+If the need for a refactoring or substantial changes arise during the review, create directly a new task and add a link to it in the review.
+
+Remember that, the longer a review takes, the higher are the risks for merge conflicts, and for a decrease of motivation for everyone participating in the review.
 
 #### Don't take it personnally / Take some distance
 
@@ -61,28 +88,9 @@ If you feel hurt, take some distance, assume the best intention from the reviewe
 
 Always keep in mind that it's not about a better version of you, it's about a better software craft.
 
-#### Choose the right number of reviewers
-
-Having the right number of reviewers can prevent:
-
-- too many comments and/or too many suggestions going into too many different directions,
-- too few comments, when everyone thinks someone will take care of writing comments.
-
-You could start with a few core reviewers and when everything has been reviewd proprly, you could add more reviewers to give them visibility.
-
-#### Keep them small / Divide and conquer
-
-Small successive PRs, each one focused on a single change will usually result in faster reviews. Always try to organize your work in order to be able to break a complex task into a succession of simpler ones. The reviewers will thank you!
-
-#### Rome wasn't built in a day / Create new tasks
-
-If the need for a refactoring or substantial changes arise during the review, create directly a new task and add a link to it in the review.
-
-Remember that, the longer a review takes, the higher are the risks for merge conflicts and decrease in motivation.
-
 #### Answer all comments / Write the end of the story
 
-As matter of respect for the reviewers (after all, they are spending time and energy to help you) and because a review is a conversation and as such, it should have a conlusion.
+Be sure to answer all the comments. Not only as matter of respect for the reviewers (after all, they are spending time and energy to help you) but also because a review is a conversation and, as such, it should have a conlusion.
 
 ### 👓 For the reviewers
 
