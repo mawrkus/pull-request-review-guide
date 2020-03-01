@@ -78,9 +78,9 @@ Small successive PRs, each one focused on a single change can help having faster
 
 If the need for a refactoring or substantial changes arise during the review, create directly a new task and add a link to it in the review.
 
-Remember that, the longer a review takes, the higher are the risks for merge conflicts, and for a decrease of motivation for everyone participating in the review.
+Remember that, the longer a review takes, the higher are the risks for merge conflicts, and for a decrease in motivation for everyone participating in the review.
 
-#### Don't take it personnally / Take some distance
+#### Don't take it personally / Take some distance
 
 There's a difference between who you are and what you do. What you do can always be improved through constructive and respectful criticism.
 
@@ -96,29 +96,31 @@ Be sure to answer all the comments. Not only as matter of respect for the review
 
 #### Empathize / The other person is you
 
-Always consider the potential impact of your words, not just their original intent. Take some time to write comments that are not only helpful but also kind.
+Always consider the potential impact of your words, not just their original intent. Ask yourself how you would react to the words you're about to post. Take some time to write comments that are not only helpful but also kind, the other person is you.
 
 #### Avoid selective ownership / It's ours
 
-Instead of: "your", "mine", "not mine", use ""our".
+Instead of using words like: "your", "mine", "not mine", prefer "our" and "we".
 
-Rephrase any comment using "we". Be inclusive, showing that you share ownership of the code being modified.
+Rephrase any comment to be inclusive, showing that you share ownership of the code being modified.
 
-#### Help the author / Don't be a gatekeeper
+#### Help the author
 
-Writing Software is a discovery process, in the sense that we try to figure out the problem at hands and how to solve it in the best way.
+Writing software is a discovery process, in the sense that we try to figure out the problem at hands and how to solve it in the best way.
 
 As we all have different levels of experience and expertise, it's natural that some of us will suggest "better" solutions than others.
 
-Try to understand the reasons behind their choices, seek to understand their perspective, you might also learn something in the process!
-
-Remember that you are in the review to provide feedback, not to be a gatekeeper.
+Always try to understand the reasons behind the author's choices, seek to understand their perspective, you might also learn something in the process!
 
 At the end, this is your personal responsibility to use your own experience and expertise to help the author. We are humans, not machines. A little help is always appreciated!
 
+#### Don't be a gatekeeper
+
+Remember that you are in the review to provide feedback, not to be a gatekeeper. (...)
+
 #### Provide code samples / Provide references
 
-Don't assume the author knows exactly what you are talking about. When necessary, consider adding:
+Don't assume that the author knows exactly what you are talking about, consider adding:
 
 - a code sample,
 - a link to relevant documentation,
@@ -126,7 +128,7 @@ Don't assume the author knows exactly what you are talking about. When necessary
 - a link to a blog post on the topic,
 - a link to a GitHub repository.
 
-This will provide a nice support to your comment/suggestion and will certainly benefit all the persons participating in the review.
+This will provide a nice support for your comment/suggestion and will certainly benefit all the persons participating in the review.
 
 #### Review test code first
 
