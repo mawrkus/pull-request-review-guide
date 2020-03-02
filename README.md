@@ -29,7 +29,7 @@ Instead:
 
 Respect and humility remove all frictions. Clarity dissipes all doubts about your intentions. Suggesting creates the conditions for improvement.
 
-At the end, the goal is to have better, more meaningful conversations and saving a lot of time and energy.
+At the end, the goal is to have better, more meaningful conversations and saving time and energy.
 
 #### Stop the "reply" hemorragy / Offer to talk in person
 
@@ -41,29 +41,29 @@ Once done, post a concise comment to summarize the conversation and to share the
 
 #### Give positive feedback / Be grateful
 
-Whether you learn something thanks to one of your peer's comment or you were invited to a review that fixes an issue no one wanted to fix, or just to congratulate the good work, just say: "thank you!".
+Whether you learn something thanks to one of your peers comment or you are invited to a review that fixes an issue no one wanted to fix, or just to congratulate the good work, just say: "thank you!".
 
 It makes a huge difference to receive positive feedback!
 
 ### 🖋️ For the authors
 
-#### The first reviewer is... you
+#### And the first reviewer is... you
 
-After creating the pull request and before inviting anyone, take some time to review your own code. Seeing your changes outside of your IDE might help you spotting inconstencies, mistakes, missing parts, or even can help you finding easier ways to solve the problem at hand.
+After creating the pull request and before inviting anyone, take some time to review your own code. Seeing your changes outside of your IDE might help you spotting inconstencies, mistakes, missing parts, or even finding easier ways to solve the problem at hand.
 
-#### Be proactive / Help the reviewers
+#### Be proactive / Help your reviewers
 
-If the PR is complex, write a general comment to explain its purpose, to give an overview of the changes being made and to share any relevant information about your choices. It will help the reviewers dive in the review without effort, which can help having less comments and a faster review.
+If the PR is complex, write a general comment to explain its purpose, to give an overview of the changes being made and to share any relevant information about your choices. It will help your reviewers to dive in the review without effort, which will surely result in less comments and a faster review.
 
 If there are many changes, highlight the most important parts.
 
 #### Choose your audience
 
-Take some time to choose the reviewers. Prior to inviting them, ask yourself:
+Take some time to choose your reviewers. Prior to inviting them, ask yourself:
 
-- Who could give me the best feedback?
-- Who has time to review my code?
 - Who should I give visibility of the changes being made?
+- Who has time to review my code?
+- Who could give me the best feedback?
 
 #### Choose the right number of reviewers
 
@@ -76,13 +76,13 @@ To prevent this, you can start with a few core reviewers to receive the main fee
 
 #### Keep it small / Divide and conquer
 
-Small successive PRs, each one focused on a single change can help having faster reviews. Always try to organize your work in order to be able to break a complex task into a succession of simpler ones. The reviewers will thank you for not stealing all their time!
+Small successive PRs, each one focused on a single change can help having faster reviews. Always try to organize your work in order to be able to break a complex task into a succession of simpler ones. Your reviewers will thank you for not stealing all their time!
 
 #### Rome wasn't built in a day / Create new tasks
 
-If the need for a refactoring or substantial changes arise during the review, create directly a new task and add a link to it in the review.
+If the need for a big refactoring or substantial changes arise during the review, create directly a new task and add a link to it in the review.
 
-Remember that, the longer a review takes, the higher are the risks for merge conflicts, and for a decrease in motivation for everyone participating in the review.
+Remember that, the longer a review takes, the more the changes, the higher are the risks for merge conflicts, and for a decrease in motivation for everyone participating in the review.
 
 #### Don't take it personally / Take some distance
 
@@ -94,13 +94,13 @@ Always keep in mind that it's not about a better version of you, it's about a be
 
 #### Answer all comments / Write the end of the story
 
-Be sure to answer all the comments. Not only as matter of respect for the reviewers (after all, they are spending time and energy to help you) but also because a review is a conversation and, as such, it should have a conlusion.
+Be sure to answer all the comments. Not only as matter of respect for you reviewers (after all, they are spending time and energy to help you) but also because a review is a conversation and, as such, it should have a conlusion.
 
 ### 👓 For the reviewers
 
 #### Empathize / The other person is you
 
-Always consider the potential impact of your words, not just their original intent. Ask yourself how you would react to the words you're about to post. Take some time to write comments that are not only helpful but also kind, the other person is you.
+Always consider the potential impact of your words, not just their original intent. Ask yourself how you would react to the words you're about to post. Take some time to write comments that are not only helpful but also kind, the other person is you ;)
 
 #### Avoid selective ownership / It's ours
 
@@ -124,9 +124,9 @@ Remember that you are in the review to provide feedback, not to be a gatekeeper.
 
 (...)
 
-#### Provide code samples / Provide references
+#### Light the way / Provide references
 
-Don't assume that the author knows exactly what you are talking about, consider adding:
+Don't assume that the author knows exactly what you are talking about, to support your comment/suggestion, don't hesitate to add:
 
 - a code sample,
 - a link to relevant documentation,
@@ -134,7 +134,7 @@ Don't assume that the author knows exactly what you are talking about, consider 
 - a link to a blog post on the topic,
 - a link to a GitHub repository.
 
-This will provide a nice support for your comment/suggestion and will certainly benefit all the persons participating in the review.
+It might also benefit the other reviewers.
 
 #### Review test code first
 
