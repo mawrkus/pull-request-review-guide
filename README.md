@@ -87,9 +87,9 @@ Remember that, the longer a review takes, the more the changes, the higher are t
 
 #### Don't take it personally / Take some distance
 
-There's a difference between who you are and what you do. What you do can always be improved through constructive and respectful criticism.
+There's a difference between who you are and what you do. What you do can always be improved through constructive and respectful feedback.
 
-If you feel hurt, take some distance, assume the best intention from the reviewer's comment and try to see it through their lens.
+If you receive negative feedback, take some distance, assume the best intention from the reviewer and try to evaluate your code critically, as if someone else had written it.
 
 Always keep in mind that it's not about a better version of you, it's about a better software craft.
 
@@ -218,14 +218,17 @@ Missing: Explain Why - Suggest
 - "The Art of Giving and Receiving Code Reviews (Gracefully)": http://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/
 - "8 Causes of Miscommunication and Misunderstanding" https://www.userlike.com/en/blog/causes-of-miscommunication
 - "A guide for reviewing code and having your code reviewed": https://github.com/thoughtbot/guides/tree/master/code-review
+- "A practical guide for conducting efficient code reviews": https://www.heartinternet.uk/blog/a-practical-guide-for-conducting-efficient-code-reviews/
 
 ### To check
 
-- "A practical guide for conducting efficient code reviews": https://www.heartinternet.uk/blog/a-practical-guide-for-conducting-efficient-code-reviews/
 - "Code Review Developer Guide": https://google.github.io/eng-practices/review/
 - "Code Reviews: Just Do It": https://blog.codinghorror.com/code-reviews-just-do-it/
 - "How to Do Code Reviews Like a Human (Part One)": https://mtlynch.io/human-code-reviews-1/
 - "Code Review — The Ultimate Guide": https://www.freecodecamp.org/news/code-review-the-ultimate-guide-aa45c358bbf5/
 - "Best Practices for Peer Code Review ": https://www.kessler.de/prd/smartbear/BestPracticesForPeerCodeReview.pdf
+- https://dev.to/jnschrag/10-lessons-learned-conducting-code-reviews-5di6
+- https://www.ibm.com/developerworks/rational/library/11-proven-practices-for-peer-review/index.html
+- https://www.processimpact.com/articles/humanizing_reviews.pdf
 
 - Again: http://www.alexandra-hill.com/2018/06/25/
