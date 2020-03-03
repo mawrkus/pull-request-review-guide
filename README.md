@@ -4,9 +4,9 @@
 
 ## 📔 Considerations
 
-- A code review is a dialogue, and as such, it should always be done in a respectful and constructive way. We are humans, not machines.
+- A code review is a dialogue, and as such, it should always be done in a respectful and constructive way.
 - Many programming decisions are opinions. A code review opens a conversation about tradeoffs in order to reach a resolution that everyone is satisfied with.
-- A code review is a collaborative tool for knowledge spreading and for code quality improvement, for both authors and reviewers.
+- For both authors and reviewers, a code review is a collaborative tool for knowledge spreading and for code quality improvement.
 
 ## 📔 Guidelines
 
@@ -42,7 +42,7 @@ Once done, post a concise comment to summarize the conversation and to share the
 
 #### Give positive feedback / Be grateful
 
-Whether you learn something thanks to one of your peers comment or you are invited to a review that fixes an issue no one wanted to fix, or just to congratulate the good work, just say: "thank you!".
+Whether you've just learned something thanks to one of your peers comment or you've just read an elegant line of code, or just to congratulate the good work, say: "thank you!".
 
 It makes a huge difference to receive positive feedback!
 
@@ -52,7 +52,7 @@ It makes a huge difference to receive positive feedback!
 
 After creating the pull request and before inviting anyone, take some time to review your own code. Seeing your changes outside of your IDE might help you spotting inconstencies, mistakes, missing parts, or even finding easier ways to solve the problem at hand.
 
-#### Be proactive / Help your reviewers
+#### Be proactive / Annotate
 
 If the PR is complex, write a general comment to explain its purpose, to give an overview of the changes being made and to share any relevant information about your choices. It will help your reviewers to dive in the review without effort, which will surely result in less comments and a faster review.
 
@@ -109,25 +109,7 @@ Instead of using words like: "your", "mine", "not mine", prefer "our" and "we".
 
 Rephrase any comment to be inclusive, showing that you share ownership of the code being modified.
 
-#### Help the author
-
-Writing software is a discovery process, in the sense that we try to figure out the problem at hands and how to solve it in the best way.
-
-As we all have different levels of experience and expertise, it's natural that some of us will suggest "better" solutions than others.
-
-Always try to understand the reasons behind the author's choices, seek to understand their perspective, you might also learn something in the process!
-
-At the end, this is your personal responsibility to use your own experience and expertise to help the author. We are humans, not machines. A little help is always appreciated!
-
-#### Don't be a gatekeeper / Improvements have a threshold
-
-Maybe we don't always need to have "perfect" code pushed to production? Maybe a good increment in quality is enough?
-
-Don't place the author in a never-ending cycle of requests for changes, instead, try to strike a balance between code quality, performance, and developer happiness.
-
-Remember that you are in the review to provide feedback, not to be a gatekeeper.
-
-#### Light the way / Provide references
+#### Provide references
 
 Don't assume that the author knows exactly what you are talking about, to support your comment/suggestion, don't hesitate to add:
 
@@ -137,7 +119,23 @@ Don't assume that the author knows exactly what you are talking about, to suppor
 - a link to a blog post on the topic,
 - a link to a GitHub repository.
 
-It might also benefit the other reviewers.
+Sharing some references might also benefit the other reviewers.
+
+#### Don't be a gatekeeper / Improvements have a threshold
+
+Maybe we don't always need to have "perfect" code pushed to production? Maybe a good increment in quality is enough?
+
+Don't place the author in a never-ending cycle of requests for changes, instead, try to strike a balance between code quality, performance, and developer happiness.
+
+Remember that you are in the review to provide feedback, not to be a gatekeeper.
+
+#### Seek the author's perspective / We always learn
+
+Writing software is a discovery process, in the sense that we try to figure out the problem at hand and how to solve it in the best way.
+
+As we all have different levels of experience and expertise, it's natural that we end up suggesting different kinds of solutions. Some better than the others, some worse.
+
+If something bothers you in the implementation you're reviewing, try to understand the reasons behind the author's choices, assume they have already considered alternative implementations, you might learn something valuable in the process!
 
 #### Review test code first
 
