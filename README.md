@@ -48,9 +48,9 @@ It makes a huge difference to receive positive feedback!
 
 ### 🖋️ For the authors
 
-#### And the first reviewer is... you
+#### And the first reviewer is... you / Assess your code
 
-After creating the pull request and before inviting anyone, take some time to review your own code. Seeing your changes outside of your IDE might help you spotting inconstencies, mistakes, missing parts, or even finding easier ways to solve the problem at hand.
+After creating the pull request and before inviting anyone, take some time to assess your own code. Reviewing your changes outside of your IDE might help you spotting inconstencies, mistakes, missing parts, or even finding easier ways to solve the problem at hand.
 
 #### Be proactive / Annotate
 
