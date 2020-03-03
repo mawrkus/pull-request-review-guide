@@ -36,7 +36,7 @@ At the end, the goal is to have better, more meaningful conversations and saving
 
 Many replies to a comment might be the symptom of miscommunication, misunderstanding or lack of knowledge. They can create a lot of noise for everyone participating in the review.
 
-Should it be the case, offer to talk in person to clarify the topic under discussion, to agree on the solution and/or to pair on any changes suggested.
+Should it be the case, offer to talk in person to clarify the topic under discussion, to agree on a solution and/or to pair on any changes suggested.
 
 Once done, post a concise comment to summarize the conversation and to share the agreement with everyone.
 
@@ -119,11 +119,13 @@ Always try to understand the reasons behind the author's choices, seek to unders
 
 At the end, this is your personal responsibility to use your own experience and expertise to help the author. We are humans, not machines. A little help is always appreciated!
 
-#### Don't be a gatekeeper
+#### Don't be a gatekeeper / Improvements have a threshold
+
+Maybe we don't always need to have "perfect" code pushed to production? Maybe a good increment in quality is enough?
+
+Don't place the author in a never-ending cycle of requests for changes, instead, try to strike a balance between code quality, performance, and developer happiness.
 
 Remember that you are in the review to provide feedback, not to be a gatekeeper.
-
-(...)
 
 #### Light the way / Provide references
 
@@ -226,4 +228,6 @@ Missing: Explain Why - Suggest
 - "Code Reviews: Just Do It": https://blog.codinghorror.com/code-reviews-just-do-it/
 - "How to Do Code Reviews Like a Human (Part One)": https://mtlynch.io/human-code-reviews-1/
 - "Code Review — The Ultimate Guide": https://www.freecodecamp.org/news/code-review-the-ultimate-guide-aa45c358bbf5/
+- "Best Practices for Peer Code Review ": https://www.kessler.de/prd/smartbear/BestPracticesForPeerCodeReview.pdf
+
 - Again: http://www.alexandra-hill.com/2018/06/25/
