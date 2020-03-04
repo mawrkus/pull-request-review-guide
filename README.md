@@ -206,6 +206,16 @@ Missing: Ask - Explain Why - Suggest
 
 Missing: Explain Why - Suggest
 
+### 6
+
+> Alan:
+> It's not consistent this tracking, because it directly depends on provided options.
+>
+> Billy:
+> Ok, what do you suggest we should do instead?
+
+Missing: Explain Why - Suggest
+
 ## 📔 Profiles
 
 - The terrorist
