@@ -52,11 +52,15 @@ It makes a huge difference to receive positive feedback!
 
 After creating the pull request and before inviting anyone, take some time to assess your own code. Reviewing your changes outside of your IDE might help you spotting inconstencies, mistakes, missing parts, or even finding easier ways to solve the problem at hand.
 
-#### Be proactive / Annotate
+#### Be proactive / Provide context
 
 If the PR is complex, write a general comment to explain its purpose, to give an overview of the changes being made and to share any relevant information about your choices. It will help your reviewers to dive in the review without effort, which will surely result in less comments and a faster review.
 
 If there are many changes, highlight the most important parts.
+
+#### Wait for the build to be green
+
+(...)
 
 #### Choose your audience
 
@@ -240,5 +244,6 @@ Missing: Explain Why - Suggest
 - https://dev.to/jnschrag/10-lessons-learned-conducting-code-reviews-5di6
 - https://www.ibm.com/developerworks/rational/library/11-proven-practices-for-peer-review/index.html
 - https://www.processimpact.com/articles/humanizing_reviews.pdf
+- https://www.smashingmagazine.com/2018/07/collaboration-designers-code-review-process/
 
 - Again: http://www.alexandra-hill.com/2018/06/25/
