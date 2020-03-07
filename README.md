@@ -42,7 +42,7 @@ Once done, post a concise comment to summarize the conversation and to share the
 
 #### Give positive feedback / Be grateful
 
-Whether you've just learned something thanks to one of your peers comment or you've just read an elegant line of code, or just to congratulate the good work, say: "thank you!".
+Whether you've just learned something thanks to one of your peers comment or you've just read an elegant line of code, or just to congratulate the good work, say: "thank you!", "great!", "nice!".
 
 It makes a huge difference to receive positive feedback!
 
@@ -60,7 +60,9 @@ If there are many changes, highlight the most important parts.
 
 #### Agree on a coding style / Automate
 
- Conversations about coding style can be long and unproductive. After all, it's a matter of personal taste and everyone has their own preference. This is why it's important to find a coding style that your team can adhere to and to use automation tools to ensure that it is being followed (code formatters, linters). By removing the personal tastes from the review, everyone can focus on what's most important: code quality and best practices.
+ Conversations about coding style can be long and unproductive. After all, it's a matter of personal taste and everyone has their own preference.
+
+ This is why it's important to find a coding style that your team can adhere to and to use automation tools to ensure that it is being followed (code formatters, linters). By removing the personal tastes from the review, everyone can focus on what's most important: code quality and best practices.
 
 #### Wait for the green light
 
@@ -165,8 +167,6 @@ Tests are mini use cases of the code that you can drill into. It will help you u
 > Billy:
 > Let’s talk, your comment does not help me understand.
 
-Missing: Ask - Explain Why - Suggest
-
 ### 2
 
 > Jamie:
@@ -182,14 +182,10 @@ Missing: Ask - Explain Why - Suggest
 > Good point, I don’t know actually!
 > I’ll make some tests.
 
-Present: Ask - Explain Why - Suggest
-
 ### 3
 
 > Alan:
 > Maybe it is time to stop the tradition of providing all the arguments as props.
-
-Missing: Ask - Explain Why - Suggest
 
 ### 4
 
@@ -205,24 +201,18 @@ Missing: Ask - Explain Why - Suggest
 > Jamie
 > Do you know why?
 
-Missing: Ask - Explain Why - Suggest
-
 ### 5
 
 > Evan:
 > Do you want to keep this line?
 
-Missing: Explain Why - Suggest
-
 ### 6
 
 > Alan:
-> It's not consistent this tracking, because it directly depends on provided options.
+> It's not consistent this tracking, because it directly depends on the the provided options.
 >
 > Billy:
 > Ok, what do you suggest we should do instead?
-
-Missing: Explain Why - Suggest
 
 ## 📔 Profiles
 
