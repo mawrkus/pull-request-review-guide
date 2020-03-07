@@ -132,13 +132,9 @@ Don't assume that the author knows exactly what you are talking about, to suppor
 
 Sharing some references can also benefit the other reviewers.
 
-#### Don't be a gatekeeper / Improvements have a threshold
+#### Review test code first
 
-Maybe we don't always need to have "perfect" code pushed to production? Maybe a good increment in quality is enough?
-
-Don't place the author in a never-ending cycle of requests for changes, instead, try to strike a balance between code quality, performance, and developer happiness.
-
-Remember that you are in the review to provide feedback, not to be a gatekeeper.
+Tests are mini use cases of the code that you can drill into. It will help you understand the intent of the author very quickly (could be just by looking at the names of the tests).
 
 #### Seek the author's perspective / We always learn
 
@@ -148,9 +144,13 @@ As we all have different levels of experience and expertise, it's natural that w
 
 If something bothers you in the implementation you're reviewing, try to understand the reasons behind the author's choices, assume they have already considered alternative implementations, you could learn something valuable in the process!
 
-#### Review test code first
+#### Don't be a gatekeeper / Improvements have a threshold
 
-Tests are mini use cases of the code that you can drill into. It will help you understand the intent of the author very quickly (could be just by looking at the names of the tests).
+Maybe we don't always need to have "perfect" code pushed to production? Maybe a good increment in quality is enough?
+
+Don't place the author in a never-ending cycle of requests for changes, instead, try to strike a balance between code quality, performance, and developer happiness.
+
+Remember that you are in the review to provide feedback, not to be a gatekeeper.
 
 ## 📔 Interactions
 
@@ -228,6 +228,7 @@ Tests are mini use cases of the code that you can drill into. It will help you u
 - "8 Causes of Miscommunication and Misunderstanding" https://www.userlike.com/en/blog/causes-of-miscommunication
 - "A guide for reviewing code and having your code reviewed": https://github.com/thoughtbot/guides/tree/master/code-review
 - "A practical guide for conducting efficient code reviews": https://www.heartinternet.uk/blog/a-practical-guide-for-conducting-efficient-code-reviews/
+- "Feedback Ladders: How We Encode Code Reviews at Netlify": https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/
 
 ### To check
 
