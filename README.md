@@ -6,6 +6,7 @@
 
 - A code review is a dialogue, and as such, it should always be done in a respectful and constructive way.
 - Many programming decisions are opinions. A code review opens a conversation about tradeoffs in order to reach a resolution that everyone is satisfied with.
+- A code review is a form of asynchronous communication, so a lot of context (like body language and the opportunity for back-and-forth) is lost.
 - For both authors and reviewers, a code review is a collaborative tool for knowledge spreading and for code quality improvement.
 
 ## 📔 Guidelines
