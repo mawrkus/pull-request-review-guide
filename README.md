@@ -115,7 +115,7 @@ Always consider the potential impact of your words, not just their original inte
 
 Instead of using words like: "your", "mine", "not mine", which could be interpreted as finger-pointing, prefer the more inclusives "our" and "we".
 
-Rephrase any comment to be inclusive, showing that you share ownership of the code being modified.
+Rephrase any comment to be more collaborative, showing that you share ownership of the code being modified.
 
 #### Provide references
 
