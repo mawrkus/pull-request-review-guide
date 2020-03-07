@@ -34,7 +34,7 @@ At the end, the goal is to have better, more meaningful conversations and saving
 
 #### Stop the "reply" hemorragy / Offer to talk in person
 
-Many replies to a comment might be the symptom of miscommunication, misunderstanding or lack of knowledge. They can create a lot of noise for everyone participating in the review.
+Many replies to a comment could be the symptom of miscommunication, misunderstanding or lack of knowledge. They can create a lot of noise for everyone participating in the review.
 
 Should it be the case, offer to talk in person to clarify the topic under discussion, to agree on a solution and/or to pair on any changes suggested.
 
@@ -50,7 +50,7 @@ It makes a huge difference to receive positive feedback!
 
 #### And the first reviewer is... you / Assess your code
 
-After creating the pull request and before inviting anyone, take some time to assess your own code. Reviewing your changes outside of your IDE might help you spotting inconstencies, mistakes, missing parts, or even finding easier ways to solve the problem at hand.
+After creating the pull request and before inviting anyone, take some time to assess your own code. Reviewing your changes outside of your IDE could help you spotting inconstencies, mistakes, missing parts, or even finding easier ways to solve the problem at hand.
 
 #### Be proactive / Provide context
 
@@ -58,9 +58,13 @@ If the PR is complex, write a general comment to explain its purpose, to give an
 
 If there are many changes, highlight the most important parts.
 
-#### Wait for the build to be green
+#### Agree on a coding style / Automate
 
-(...)
+ Conversations about coding style can be long and unproductive. After all, it's a matter of personal taste and everyone has their own preference. This is why it's important to find a coding style that your team can adhere to and to use automation tools to ensure that it is being followed (code formatters, linters). By removing the personal tastes from the review, everyone can focus on what's most important: code quality and best practices.
+
+#### Wait for the green light
+
+Save time for everyone: if your CI/CD pipeline has a test stage, wait until all tests and linting have passed before inviting abyone to the review. You don't want the first comment to be "The build is failing :/".
 
 #### Choose your audience
 
@@ -109,7 +113,7 @@ Always consider the potential impact of your words, not just their original inte
 
 #### Avoid selective ownership / It's ours
 
-Instead of using words like: "your", "mine", "not mine", prefer "our" and "we".
+Instead of using words like: "your", "mine", "not mine", which could be interpreted as finger-pointing, prefer the more inclusives "our" and "we".
 
 Rephrase any comment to be inclusive, showing that you share ownership of the code being modified.
 
@@ -123,7 +127,7 @@ Don't assume that the author knows exactly what you are talking about, to suppor
 - a link to a blog post on the topic,
 - a link to a GitHub repository.
 
-Sharing some references might also benefit the other reviewers.
+Sharing some references can also benefit the other reviewers.
 
 #### Don't be a gatekeeper / Improvements have a threshold
 
@@ -139,7 +143,7 @@ Writing software is a discovery process, in the sense that we try to figure out 
 
 As we all have different levels of experience and expertise, it's natural that we end up suggesting different kinds of solutions. Some better than the others, some worse.
 
-If something bothers you in the implementation you're reviewing, try to understand the reasons behind the author's choices, assume they have already considered alternative implementations, you might learn something valuable in the process!
+If something bothers you in the implementation you're reviewing, try to understand the reasons behind the author's choices, assume they have already considered alternative implementations, you could learn something valuable in the process!
 
 #### Review test code first
 
