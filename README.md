@@ -34,7 +34,7 @@ At the end, the goal is to have better, more meaningful conversations and saving
 
 #### Stop the "reply" hemorragy / Offer to talk in person
 
-Many replies to a comment might be the symptom of miscommunication, misunderstanding or lack of knowledge. They can create a lot of noise for everyone participating in the review.
+Many replies to a comment might be the symptom of miscommunication, misunderstanding or lack of knowledge. They can create a lot of noise for everyone participating in the review, as well as frustration.
 
 Should it be the case, offer to talk in person to clarify the topic under discussion, to agree on a solution and/or to pair on any changes suggested.
 
