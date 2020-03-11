@@ -6,6 +6,7 @@
 
 - A code review is a dialogue, and as such, it should always be done in a respectful and constructive way.
 - Many programming decisions are opinions. A code review opens a conversation about tradeoffs in order to reach a resolution that everyone is satisfied with.
+- A code review is a form of asynchronous communication, so a lot of context (like body language and the opportunity for back-and-forth) is lost.
 - For both authors and reviewers, a code review is a collaborative tool for knowledge spreading and for code quality improvement.
 
 ## 📔 Guidelines
@@ -42,7 +43,7 @@ Once done, post a concise comment to summarize the conversation and to share the
 
 #### Give positive feedback / Be grateful
 
-Whether you've just learned something thanks to one of your peers comment or you've just read an elegant line of code, or just to congratulate the good work, say: "thank you!".
+Whether you've just learned something thanks to one of your peers comment or you've just read an elegant line of code, or just to congratulate the good work, say: "thank you!", "great!", "nice!".
 
 It makes a huge difference to receive positive feedback!
 
@@ -50,13 +51,23 @@ It makes a huge difference to receive positive feedback!
 
 #### And the first reviewer is... you / Assess your code
 
-After creating the pull request and before inviting anyone, take some time to assess your own code. Reviewing your changes outside of your IDE might help you spotting inconstencies, mistakes, missing parts, or even finding easier ways to solve the problem at hand.
+After creating the pull request and before inviting anyone, take some time to assess your own code. Reviewing your changes outside of your IDE could help you spotting inconstencies, mistakes, missing parts, or even finding easier ways to solve the problem at hand.
 
-#### Be proactive / Annotate
+#### Be proactive / Provide context
 
 If the PR is complex, write a general comment to explain its purpose, to give an overview of the changes being made and to share any relevant information about your choices. It will help your reviewers to dive in the review without effort, which will surely result in less comments and a faster review.
 
 If there are many changes, highlight the most important parts.
+
+#### Agree on a coding style / Automate
+
+ Conversations about coding style can be long and unproductive. After all, it's a matter of personal taste and everyone has their own preference.
+
+ This is why it's important to find a coding style that your team can adhere to and to use automation tools to ensure that it is being followed (code formatters, linters). By removing the personal tastes from the review, everyone can focus on what's most important: code quality and best practices.
+
+#### Wait for the green light
+
+Save time for everyone: if your CI/CD pipeline has a test stage, wait until all tests and linting have passed before inviting abyone to the review. You don't want the first comment to be "The build is failing :/".
 
 #### Choose your audience
 
@@ -105,9 +116,9 @@ Always consider the potential impact of your words, not just their original inte
 
 #### Avoid selective ownership / It's ours
 
-Instead of using words like: "your", "mine", "not mine", prefer "our" and "we".
+Instead of using words like: "your", "mine", "not mine", which could be interpreted as finger-pointing, prefer the more inclusives "our" and "we".
 
-Rephrase any comment to be inclusive, showing that you share ownership of the code being modified.
+Rephrase any comment to be more collaborative, showing that you share ownership of the code being modified.
 
 #### Provide references
 
@@ -119,7 +130,19 @@ Don't assume that the author knows exactly what you are talking about, to suppor
 - a link to a blog post on the topic,
 - a link to a GitHub repository.
 
-Sharing some references might also benefit the other reviewers.
+Sharing some references can also benefit the other reviewers.
+
+#### Review test code first
+
+Tests are mini use cases of the code that you can drill into. It will help you understand the intent of the author very quickly (could be just by looking at the names of the tests).
+
+#### Seek the author's perspective / We always learn
+
+Writing software is a discovery process, in the sense that we try to figure out the problem at hand and how to solve it in the best way.
+
+As we all have different levels of experience and expertise, it's natural that we end up suggesting different kinds of solutions. Some better than the others, some worse.
+
+If something bothers you in the implementation you're reviewing, try to understand the reasons behind the author's choices, assume they have already considered alternative implementations, you could learn something valuable in the process!
 
 #### Don't be a gatekeeper / Improvements have a threshold
 
@@ -128,18 +151,6 @@ Maybe we don't always need to have "perfect" code pushed to production? Maybe a 
 Don't place the author in a never-ending cycle of requests for changes, instead, try to strike a balance between code quality, performance, and developer happiness.
 
 Remember that you are in the review to provide feedback, not to be a gatekeeper.
-
-#### Seek the author's perspective / We always learn
-
-Writing software is a discovery process, in the sense that we try to figure out the problem at hand and how to solve it in the best way.
-
-As we all have different levels of experience and expertise, it's natural that we end up suggesting different kinds of solutions. Some better than the others, some worse.
-
-If something bothers you in the implementation you're reviewing, try to understand the reasons behind the author's choices, assume they have already considered alternative implementations, you might learn something valuable in the process!
-
-#### Review test code first
-
-Tests are mini use cases of the code that you can drill into. It will help you understand the intent of the author very quickly (could be just by looking at the names of the tests).
 
 ## 📔 Interactions
 
@@ -157,8 +168,6 @@ Tests are mini use cases of the code that you can drill into. It will help you u
 > Billy:
 > Let’s talk, your comment does not help me understand.
 
-Missing: Ask - Explain Why - Suggest
-
 ### 2
 
 > Jamie:
@@ -174,14 +183,10 @@ Missing: Ask - Explain Why - Suggest
 > Good point, I don’t know actually!
 > I’ll make some tests.
 
-Present: Ask - Explain Why - Suggest
-
 ### 3
 
 > Alan:
 > Maybe it is time to stop the tradition of providing all the arguments as props.
-
-Missing: Ask - Explain Why - Suggest
 
 ### 4
 
@@ -197,24 +202,18 @@ Missing: Ask - Explain Why - Suggest
 > Jamie
 > Do you know why?
 
-Missing: Ask - Explain Why - Suggest
-
 ### 5
 
 > Evan:
 > Do you want to keep this line?
 
-Missing: Explain Why - Suggest
-
 ### 6
 
 > Alan:
-> It's not consistent this tracking, because it directly depends on provided options.
+> It's not consistent this tracking, because it directly depends on the the provided options.
 >
 > Billy:
 > Ok, what do you suggest we should do instead?
-
-Missing: Explain Why - Suggest
 
 ## 📔 Profiles
 
@@ -229,6 +228,7 @@ Missing: Explain Why - Suggest
 - "8 Causes of Miscommunication and Misunderstanding" https://www.userlike.com/en/blog/causes-of-miscommunication
 - "A guide for reviewing code and having your code reviewed": https://github.com/thoughtbot/guides/tree/master/code-review
 - "A practical guide for conducting efficient code reviews": https://www.heartinternet.uk/blog/a-practical-guide-for-conducting-efficient-code-reviews/
+- "Feedback Ladders: How We Encode Code Reviews at Netlify": https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/
 
 ### To check
 
@@ -240,5 +240,6 @@ Missing: Explain Why - Suggest
 - https://dev.to/jnschrag/10-lessons-learned-conducting-code-reviews-5di6
 - https://www.ibm.com/developerworks/rational/library/11-proven-practices-for-peer-review/index.html
 - https://www.processimpact.com/articles/humanizing_reviews.pdf
+- https://www.smashingmagazine.com/2018/07/collaboration-designers-code-review-process/
 
 - Again: http://www.alexandra-hill.com/2018/06/25/
