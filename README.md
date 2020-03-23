@@ -215,6 +215,13 @@ Remember that you are in the review to provide feedback, not to be a gatekeeper.
 > Billy:
 > Ok, what do you suggest we should do instead?
 
+### 7
+
+> Alan:
+> I can imagine why you are putting this fix here now, but our mission is to make the templates simplier, and the only way to accomplish that is to move all the business logic related to the page to the model.
+> It's a bit more complicated, but this is the way that we need to follow now. There are an amount of benefits of doing that, and one of them is to have tests.
+> If you need some help about it, write me.
+
 ## 📔 Profiles
 
 - The terrorist
