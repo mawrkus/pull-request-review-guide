@@ -67,7 +67,7 @@ If there are many changes, highlight the most important parts.
 
 #### Wait for the green light
 
-Save time for everyone: if your CI/CD pipeline has a test stage, wait until all tests and linting have passed before inviting abyone to the review. You don't want the first comment to be "The build is failing :/".
+Save time for everyone: if your CI/CD pipeline has a test stage, wait until all tests and linting have passed before inviting ayone to the review. You don't want the first comment to be "The build is failing :/".
 
 #### Choose your audience
 
@@ -102,7 +102,7 @@ There's a difference between who you are and what you do. What you do can always
 
 If you receive negative feedback, take some distance, assume the best intention from the reviewer and try to evaluate your code critically, as if someone else had written it.
 
-Always keep in mind that it's not about a better version of you, it's about a better software craft.
+Always keep in mind that it's not about you, it's about a better software craft.
 
 #### Answer all comments / Write the end of the story
 
@@ -122,7 +122,7 @@ Rephrase any comment to be more collaborative, showing that you share ownership 
 
 #### Provide references
 
-Don't assume that the author knows exactly what you are talking about, to support your comment/suggestion, don't hesitate to add:
+Don't assume that the author knows exactly what you are talking about. To support your comment/suggestion, don't hesitate to add:
 
 - a code sample,
 - a link to relevant documentation,
@@ -146,7 +146,7 @@ If something bothers you in the implementation you're reviewing, try to understa
 
 #### Don't be a gatekeeper / Improvements have a threshold
 
-Maybe we don't always need to have "perfect" code pushed to production? Maybe a good increment in quality is enough?
+Maybe we don't always need to push "perfect" code to production? Maybe a good increment in quality is enough?
 
 Don't place the author in a never-ending cycle of requests for changes, instead, try to strike a balance between code quality, performance, and developer happiness.
 
@@ -219,7 +219,7 @@ Remember that you are in the review to provide feedback, not to be a gatekeeper.
 
 > Alan:
 > I can imagine why you are putting this fix here now, but our mission is to make the templates simplier, and the only way to accomplish that is to move all the business logic related to the page to the model.
-> It's a bit more complicated, but this is the way that we need to follow now. There are an amount of benefits of doing that, and one of them is to have tests.
+> It's a bit more complicated, but this is the way that we need to follow now. There are many benefits of doing that, and one of them is to have tests.
 > If you need some help about it, write me.
 
 ## 📔 Profiles
@@ -228,6 +228,7 @@ Remember that you are in the review to provide feedback, not to be a gatekeeper.
 - The picky
 - The "checked" bot
 - The vague
+- The ghost
 
 ## 📔 Resources
 
