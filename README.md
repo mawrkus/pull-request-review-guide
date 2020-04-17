@@ -228,6 +228,7 @@ Remember that you are in the review to provide feedback, not to be a gatekeeper.
 - The picky
 - The "checked" bot
 - The vague
+- The bull
 
 ## 📔 Resources
 
