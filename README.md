@@ -239,6 +239,10 @@ Remember that you are in the review to provide feedback, not to be a gatekeeper.
 - "A practical guide for conducting efficient code reviews": https://www.heartinternet.uk/blog/a-practical-guide-for-conducting-efficient-code-reviews/
 - "Feedback Ladders: How We Encode Code Reviews at Netlify": https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/
 
+### To do
+
+- Add interactions below each guideline
+
 ### To check
 
 - "Code Review Developer Guide": https://google.github.io/eng-practices/review/
