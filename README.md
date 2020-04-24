@@ -13,6 +13,8 @@
 
 ### 🤝 For both authors and reviewers
 
+[TODO] What is the value I bring to this PR?
+
 #### Be respectful / Ask - Explain - Suggest
 
 Always be considerate and respectful, specifically:
@@ -226,10 +228,11 @@ Remember that you are in the review to provide feedback, not to be a gatekeeper.
 
 - The terrorist
 - The picky
-- The "checked" bot
+- The approve bot
 - The vague
 - The bull
 - The ghost
+- The purist
 
 ## 📔 Resources
 
@@ -242,6 +245,9 @@ Remember that you are in the review to provide feedback, not to be a gatekeeper.
 ### To do
 
 - Add interactions below each guideline
+- Purism vs pragmatism
+- Emitter of the message: responsible to be assertive in their way of comm and to use the best channel
+- Receiver of the message: keep an open mind, if offended -> ask explan before reacting
 
 ### To check
 
