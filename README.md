@@ -248,6 +248,7 @@ Remember that you are in the review to provide feedback, not to be a gatekeeper.
 - Purism vs pragmatism
 - Emitter of the message: responsible to be assertive in their way of comm and to use the best channel
 - Receiver of the message: keep an open mind, if offended -> ask explain before reacting
+- Add boy scout principle
 
 ### To check
 
