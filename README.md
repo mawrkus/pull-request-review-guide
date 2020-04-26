@@ -214,7 +214,9 @@ Sharing some references can also benefit the other reviewers.
 
 #### Seek the author's perspective / We always learn
 
-If something bothers you in the code you're reviewing, try to understand the reasons behind the author's choices and assume they have already considered alternative implementations, you could learn something valuable in the process!
+If something bothers you in the code you're reviewing, try to understand the reasons behind the author's choices.
+
+Keep in mind that, often, the author is closer to the code than you are, and so they might really have a better insight about certain aspects of it ;)
 
 • [Go top](#-guidelines) •
 
