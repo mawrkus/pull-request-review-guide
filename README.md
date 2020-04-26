@@ -13,8 +13,6 @@
 
 ### 🤝 For both authors and reviewers
 
-[TODO] What is the value I bring to this PR?
-
 #### Be respectful / Ask - Explain - Suggest
 
 Always be considerate and respectful, specifically:
@@ -53,7 +51,7 @@ It makes a huge difference to receive positive feedback!
 
 #### And the first reviewer is... you / Assess your code
 
-After creating the pull request and before inviting anyone, take some time to assess your own code. Reviewing your changes outside of your IDE could help you spotting inconstencies, mistakes, missing parts, or even finding easier ways to solve the problem at hand.
+After creating the pull request (PR) and before inviting anyone, take some time to assess your own code. Reviewing your changes outside of your IDE could help you spotting inconstencies, mistakes, missing parts, or even finding easier ways to solve the problem at hand.
 
 #### Be proactive / Provide context
 
@@ -69,7 +67,7 @@ If there are many changes, highlight the most important parts.
 
 #### Wait for the green light
 
-Save time for everyone: if your CI/CD pipeline has a test stage, wait until all tests and linting have passed before inviting ayone to the review. You don't want the first comment to be "The build is failing :/".
+Save time for everyone: if your CI/CD pipeline has a test stage, wait until all tests have passed before inviting ayone to the review. You don't want the first comment to be "The build is failing :/".
 
 #### Choose your audience
 
@@ -108,7 +106,7 @@ Always keep in mind that it's not about you, it's about a better software craft.
 
 #### Answer all comments / Write the end of the story
 
-Be sure to answer all the comments. Not only as matter of respect for you reviewers (after all, they are spending time and energy to help you) but also because a review is a conversation and, as such, it should have a conlusion.
+Be sure to answer all the comments. Not only as matter of respect for you reviewers (after all, they are spending time and energy as well) but also because a review is a conversation and, as such, it should have a conclusion.
 
 ### 👓 For the reviewers
 
@@ -222,17 +220,17 @@ Remember that you are in the review to provide feedback, not to be a gatekeeper.
 > Alan:
 > I can imagine why you are putting this fix here now, but our mission is to make the templates simplier, and the only way to accomplish that is to move all the business logic related to the page to the model.
 > It's a bit more complicated, but this is the way that we need to follow now. There are many benefits of doing that, and one of them is to have tests.
-> If you need some help about it, write me.
+> If you need some help about it, drop me a message.
 
 ## 📔 Profiles
 
-- The terrorist
-- The picky
-- The approve bot
-- The vague
-- The bull
-- The ghost
-- The purist
+- The terrorist: destroys every piece of code one by one.
+- The picky: will approve the PR with great difficulty, because there's always a little something to improve.
+- The bot: will always approve the PR without any comment. For some, their best friend, for others, the most annoying reviewer.
+- The vague: can be found by following the trail of "What do you mean?" comments.
+- The bull: answers comments by committing new changes.
+- The ghost: was in the PR, or not. Have you seen him?
+- The purist: does not live in a world of tradeoffs and concessions.
 
 ## 📔 Resources
 
