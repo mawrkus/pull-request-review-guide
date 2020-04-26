@@ -37,9 +37,9 @@
   + [Empathize / The other person is you](#)
   + [Avoid selective ownership / It's ours](#)
   + [Provide references](#)
-  + [Review test code first](#)
   + [Seek the author's perspective / We always learn](#)
   + [Don't be a gatekeeper / Improvements have a threshold](#)
+  + [What to look for](#)
 
 4. [Interactions](#-interactions)
 
@@ -208,12 +208,6 @@ Sharing some references can also benefit the other reviewers.
 
 • [Go top](#-guidelines) •
 
-#### Review test code first
-
-Tests are mini use cases of the code that you can drill into. It will help you understand the intent of the author very quickly (could be just by looking at the names of the tests).
-
-• [Go top](#-guidelines) •
-
 #### Seek the author's perspective / We always learn
 
 If something bothers you in the code you're reviewing, try to understand the reasons behind the author's choices and assume they have already considered alternative implementations, you could learn something valuable in the process!
@@ -229,6 +223,18 @@ Don't place the author in a never-ending cycle of requests for changes, instead,
 Remember that you are in the review to provide feedback, not to be a gatekeeper.
 
 • [Go top](#-guidelines) •
+
+#### What to look for
+
+Make sure to take into considerations each ot these points:
+
+- **Design:** Do the interactions of the various pieces of code make sense? Does this change integrate well with the rest of the code base? Is now a good time to add this functionality?
+- **Functionality:** Does this code do what the author intended? Is what the author intended good for the users of this code (end-users AND developers)?
+- **Complexity:** Can the code be understood quickly? Will developers be likely to introduce bugs when they try to call or modify this code? Is it over-engineered? Is it trying to solve a problem that the author speculates might need to be solved in the future instead of solving the problem they know needs to be solved now?
+- **Tests:** Does the code have appropriate unit tests? Are they correct, sensible and useful? Review them first, they will help you understand the intent of the author very quickly (could be just by looking at their names).
+- **Naming:** Did the author pick good names for everything? Long enough to fully communicate what the item is or does, without being so long that it becomes hard to read?
+- **Comments:** Did the author wrote clear and useful comments in understandable English? Do they explain the "why?" instead of the "what".
+- **Consistency:** Does the code follow the existing agreements about style, naming, files organization, etc.?
 
 ## 📔 Interactions
 
