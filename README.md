@@ -238,7 +238,7 @@ If you can’t understand the code, it’s very likely that other developers won
 
 #### What to look for
 
-Make sure to take into considerations each ot these points:
+In general, examine every line of code and make sure to you understand what all the code is doing. In particular, take into considerations these specific points:
 
 - **Design:** Do the interactions of the various pieces of code make sense? Does this change integrate well with the rest of the code base? Is now a good time to add this functionality?
 - **Functionality:** Does this code do what the author intended? Is what the author intended good for the users of this code (end-users AND developers)?
