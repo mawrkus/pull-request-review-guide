@@ -30,6 +30,7 @@
   + [Keep it small / Divide and conquer](#)
   + [Rome wasn't built in a day / Create new tasks](#)
   + [Don't take it personally / Keep an open mind](#)
+  + [Leave this world a little better than you found it / The boy scout rule](#)
   + [Answer all comments / Write the end of the story](#)
 
 3. For the reviewers
@@ -161,6 +162,16 @@ Always keep in mind that it's not about you, it's about a better code, a better 
 
 • [Go top](#-guidelines) •
 
+#### Leave this world a little better than you found it / The boy scout rule
+
+Opening a PR is a chance to improve the existing code base: have you noticed a missing test? A method that is too long? Some naming inconsistencies?
+
+You don't have to make a big change or to make the code looks perfect,  just a little bit better than before!
+
+If you find a mess, try to clean it up regardless of who might have made it. By doing this, you intentionally improve the code base for all the developers, helping the project to get better and better as it evolves.
+
+• [Go top](#-guidelines) •
+
 #### Answer all comments / Write the end of the story
 
 Be sure to answer all the comments. Not only as matter of respect for you reviewers (after all, they are spending time and energy as well) but also because a review is a conversation and, as such, it should have a conclusion.
@@ -205,11 +216,7 @@ Tests are mini use cases of the code that you can drill into. It will help you u
 
 #### Seek the author's perspective / We always learn
 
-Writing software is a discovery process, in the sense that we try to figure out the problem at hand and how to solve it in the best way.
-
-As we all have different levels of experience and expertise, it's natural that we end up suggesting different kinds of solutions. Some better than the others, some worse.
-
-If something bothers you in the implementation you're reviewing, try to understand the reasons behind the author's choices, assume they have already considered alternative implementations, you could learn something valuable in the process!
+If something bothers you in the code you're reviewing, try to understand the reasons behind the author's choices and assume they have already considered alternative implementations, you could learn something valuable in the process!
 
 • [Go top](#-guidelines) •
 
@@ -316,13 +323,6 @@ Remember that you are in the review to provide feedback, not to be a gatekeeper.
 - "Feedback Ladders: How We Encode Code Reviews at Netlify": https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/
 
 • [Go top](#-guidelines) •
-
-### To do
-
-- Add interactions below each guideline
-- Purism vs pragmatism
-- Emitter of the message: responsible to be assertive in their way of comm and to use the best channel
-- Add boy scout principle
 
 ### To check
 
