@@ -235,6 +235,7 @@ Make sure to take into considerations each ot these points:
 - **Naming:** Did the author pick good names for everything? Long enough to fully communicate what the item is or does, without being so long that it becomes hard to read?
 - **Comments:** Did the author wrote clear and useful comments in understandable English? Do they explain the "why?" instead of the "what".
 - **Consistency:** Does the code follow the existing agreements about style, naming, files organization, etc.?
+- **Documentation:** If the code changes how users build, test, interact with, or release code, check that the relevant documentation is also updated, deleted or added.
 
 ## 📔 Interactions
 
