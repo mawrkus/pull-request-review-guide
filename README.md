@@ -29,7 +29,7 @@
   + [Choose the right number of reviewers](#)
   + [Keep it small / Divide and conquer](#)
   + [Rome wasn't built in a day / Create new tasks](#)
-  + [Don't take it personally / Take some distance](#)
+  + [Don't take it personally / Keep an open mind](#)
   + [Answer all comments / Write the end of the story](#)
 
 3. For the reviewers
@@ -153,13 +153,11 @@ Remember that, the longer a review takes, the more the changes, the higher are t
 
 • [Go top](#-guidelines) •
 
-#### Don't take it personally / Take some distance
+#### Don't take it personally / Keep an open mind
 
-There's a difference between who you are and what you do. What you do can always be improved through constructive and respectful feedback.
+If you receive negative feedback, take some distance, assume the best intention from the reviewer and try to evaluate your code critically, as if someone else had written it. Should you feel offended, ask for some explanations before reacting.
 
-If you receive negative feedback, take some distance, assume the best intention from the reviewer and try to evaluate your code critically, as if someone else had written it.
-
-Always keep in mind that it's not about you, it's about a better software craft.
+Always keep in mind that it's not about you, it's about a better code, a better project built with your colleagues, a better software craft.
 
 • [Go top](#-guidelines) •
 
@@ -324,7 +322,6 @@ Remember that you are in the review to provide feedback, not to be a gatekeeper.
 - Add interactions below each guideline
 - Purism vs pragmatism
 - Emitter of the message: responsible to be assertive in their way of comm and to use the best channel
-- Receiver of the message: keep an open mind, if offended -> ask explain before reacting
 - Add boy scout principle
 
 ### To check
