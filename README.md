@@ -2,6 +2,10 @@
 
 > "A code review is a dialogue, but it is also a critique of a person’s work, and both reviewer and author should bear in mind the psychology of ownership and criticism. Some of the most valuable things that come up during code review are things which different developers can reasonably disagree about, and discussing such things is exactly how we learn and innovate." -- Alexandra Hill, The Art of Giving and Receiving Code Reviews (Gracefully)
 
+## Disclaimer
+
+> All the information provided has been compiled & adapted from the references cited at the end of the document. The guidelines are illustrated by my own examples, fruit of my personal experience writing and reviewing code. Many thanks to all of the sources of information & contributors.
+
 ## 📔 Considerations
 
 - A code review is a dialogue, and as such, it should always be done in a respectful and constructive way.
