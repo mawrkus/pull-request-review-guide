@@ -162,7 +162,9 @@ Remember that, the longer a review takes, the more the changes, the higher are t
 
 #### Don't take it personally / Keep an open mind
 
-If you receive negative feedback, take some distance, assume the best intention from the reviewer and try to evaluate your code critically, as if someone else had written it. Should you feel offended, ask for some explanations before reacting.
+One of the goal of a code review is to maintain the quality of the code base. When a reviewer provides a critique of your code, think of it as their attempt to help you, rather than as a personal attack on you or your abilities.
+
+If you feel offended, ask for explanations before reacting, take some distance, assume the best intention from the reviewer and try to evaluate your code critically, as if someone else had written it.
 
 Always keep in mind that it's not about you, it's about a better code, a better project built with your colleagues, a better software craft.
 
