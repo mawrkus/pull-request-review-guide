@@ -146,7 +146,9 @@ To prevent this, you can start with a few core reviewers to receive the main fee
 
 #### Keep it small / Divide and conquer
 
-Small successive PRs, each one focused on a single change can help having faster reviews. Always try to organize your work in order to be able to break a complex task into a succession of simpler ones. Your reviewers will thank you for not stealing all their time!
+Small successive PRs, each one focused on a single change, will be reviewed more quickly and more thoroughly.
+
+Always try to organize your work in order to be able to break a complex task into a succession of simpler ones. Your reviewers will thank you for not stealing all their time!
 
 • [Go top](#-guidelines) •
 
