@@ -40,11 +40,11 @@
   + [Seek the author's perspective / We always learn](#)
   + [Don't be a gatekeeper / Improvements have a threshold](#)
 
-4. [Interactions](#interactions)
+4. [Interactions](#-interactions)
 
-5. [Profiles](#profiles)
+5. [Profiles](#-profiles)
 
-6. [Resources](#resources)
+6. [Resources](#-resources)
 
 ### 🤝 For both authors and reviewers
 
