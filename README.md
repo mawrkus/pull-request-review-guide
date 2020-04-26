@@ -228,7 +228,7 @@ Remember that you are in the review to provide feedback, not to be a gatekeeper.
 
 #### Ensure review quality
 
-If don’t feel qualified to do some part of the review, don't hesitate to invite a peer who you think is qualified.
+If don’t feel qualified to do some part of the review, don't hesitate to invite a developer who you think is qualified. Try to ensure that the best possible feedback is always given to the author.
 
 #### Ask for clarifications
 
