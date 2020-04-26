@@ -4,7 +4,7 @@
 
 ## Disclaimer
 
-> All the information provided has been compiled & adapted from the references cited at the end of the document. The guidelines are illustrated by my own examples, fruit of my personal experience writing and reviewing code. Many thanks to all of the sources of information & contributors.
+*All the information provided has been compiled & adapted from the references cited at the end of the document. The guidelines are illustrated by my own examples, fruit of my personal experience writing and reviewing code. Many thanks to all of the sources of information & contributors.*
 
 ## 📔 Considerations
 
@@ -14,6 +14,37 @@
 - For both authors and reviewers, a code review is a collaborative tool for knowledge spreading and for code quality improvement.
 
 ## 📔 Guidelines
+
+1. For both authors and reviewers
+  + [Be respectful / Ask - Explain - Suggest](#)
+  + [Stop the "reply" hemorragy / Offer to talk in person](#)
+  + [Give positive feedback / Be grateful](#)
+  + [Agree on a coding style / Automate](#)
+
+2. For the authors
+  + [And the first reviewer is... you / Assess your code](#)
+  + [Be proactive / Provide context](#)
+  + [Wait for the green light](#)
+  + [Choose your audience](#)
+  + [Choose the right number of reviewers](#)
+  + [Keep it small / Divide and conquer](#)
+  + [Rome wasn't built in a day / Create new tasks](#)
+  + [Don't take it personally / Take some distance](#)
+  + [Answer all comments / Write the end of the story](#)
+
+3. For the reviewers
+  + [Empathize / The other person is you](#)
+  + [Avoid selective ownership / It's ours](#)
+  + [Provide references](#)
+  + [Review test code first](#)
+  + [Seek the author's perspective / We always learn](#)
+  + [Don't be a gatekeeper / Improvements have a threshold](#)
+
+4. [Interactions](#interactions)
+
+5. [Profiles](#profiles)
+
+6. [Resources](#resources)
 
 ### 🤝 For both authors and reviewers
 
@@ -37,6 +68,8 @@ Respect and humility remove all frictions. Clarity dissipes all doubts about you
 
 At the end, the goal is to have better, more meaningful conversations and saving time and energy.
 
+• [Go top](#-guidelines) •
+
 #### Stop the "reply" hemorragy / Offer to talk in person
 
 Many replies to a comment might be the symptom of miscommunication, misunderstanding or lack of knowledge. They can create a lot of noise for everyone participating in the review, as well as frustration.
@@ -45,23 +78,15 @@ Should it be the case, offer to talk in person to clarify the topic under discus
 
 Once done, post a concise comment to summarize the conversation and to share the agreement with everyone.
 
+• [Go top](#-guidelines) •
+
 #### Give positive feedback / Be grateful
 
 Whether you've just learned something thanks to one of your peers comment or you've just read an elegant line of code, or just to congratulate the good work, say: "thank you!", "great!", "nice!".
 
 It makes a huge difference to receive positive feedback!
 
-### 🖋️ For the authors
-
-#### And the first reviewer is... you / Assess your code
-
-After creating the pull request (PR) and before inviting anyone, take some time to assess your own code. Reviewing your changes outside of your IDE could help you spotting inconstencies, mistakes, missing parts, or even finding easier ways to solve the problem at hand.
-
-#### Be proactive / Provide context
-
-If the PR is complex, write a general comment to explain its purpose, to give an overview of the changes being made and to share any relevant information about your choices. It will help your reviewers to dive in the review without effort, which will surely result in less comments and a faster review.
-
-If there are many changes, highlight the most important parts.
+• [Go top](#-guidelines) •
 
 #### Agree on a coding style / Automate
 
@@ -69,9 +94,29 @@ If there are many changes, highlight the most important parts.
 
  This is why it's important to find a coding style that your team can adhere to and to use automation tools to ensure that it is being followed (code formatters, linters). By removing the personal tastes from the review, everyone can focus on what's most important: code quality and best practices.
 
+ • [Go top](#-guidelines) •
+
+### 🖋️ For the authors
+
+#### And the first reviewer is... you / Assess your code
+
+After creating the pull request (PR) and before inviting anyone, take some time to assess your own code. Reviewing your changes outside of your IDE could help you spotting inconstencies, mistakes, missing parts, or even finding easier ways to solve the problem at hand.
+
+• [Go top](#-guidelines) •
+
+#### Be proactive / Provide context
+
+If the PR is complex, write a general comment to explain its purpose, to give an overview of the changes being made and to share any relevant information about your choices. It will help your reviewers to dive in the review without effort, which will surely result in less comments and a faster review.
+
+If there are many changes, highlight the most important parts.
+
+• [Go top](#-guidelines) •
+
 #### Wait for the green light
 
 Save time for everyone: if your CI/CD pipeline has a test stage, wait until all tests have passed before inviting ayone to the review. You don't want the first comment to be "The build is failing :/".
+
+• [Go top](#-guidelines) •
 
 #### Choose your audience
 
@@ -80,6 +125,8 @@ Take some time to choose your reviewers. Prior to inviting them, ask yourself:
 - Who should I give visibility of the changes being made?
 - Who has time to review my code?
 - Who could give me the best feedback?
+
+• [Go top](#-guidelines) •
 
 #### Choose the right number of reviewers
 
@@ -90,15 +137,21 @@ Be inclusive, but not too much. Having a large number of reviewers could lead to
 
 To prevent this, you can start with a few core reviewers to receive the main feedback, then add more people, to give them visibility.
 
+• [Go top](#-guidelines) •
+
 #### Keep it small / Divide and conquer
 
 Small successive PRs, each one focused on a single change can help having faster reviews. Always try to organize your work in order to be able to break a complex task into a succession of simpler ones. Your reviewers will thank you for not stealing all their time!
+
+• [Go top](#-guidelines) •
 
 #### Rome wasn't built in a day / Create new tasks
 
 If the need for a big refactoring or substantial changes arise during the review, create directly a new task and add a link to it in the review.
 
 Remember that, the longer a review takes, the more the changes, the higher are the risks for merge conflicts, and for a decrease in motivation for everyone participating in the review.
+
+• [Go top](#-guidelines) •
 
 #### Don't take it personally / Take some distance
 
@@ -108,9 +161,13 @@ If you receive negative feedback, take some distance, assume the best intention 
 
 Always keep in mind that it's not about you, it's about a better software craft.
 
+• [Go top](#-guidelines) •
+
 #### Answer all comments / Write the end of the story
 
 Be sure to answer all the comments. Not only as matter of respect for you reviewers (after all, they are spending time and energy as well) but also because a review is a conversation and, as such, it should have a conclusion.
+
+• [Go top](#-guidelines) •
 
 ### 👓 For the reviewers
 
@@ -118,11 +175,15 @@ Be sure to answer all the comments. Not only as matter of respect for you review
 
 Always consider the potential impact of your words, not just their original intent. Ask yourself how you would react to the words you're about to post. Take some time to write comments that are not only helpful but also kind, the other person is you ;)
 
+• [Go top](#-guidelines) •
+
 #### Avoid selective ownership / It's ours
 
 Instead of using words like: "your", "mine", "not mine", which could be interpreted as finger-pointing, prefer the more inclusives "our" and "we".
 
 Rephrase any comment to be more collaborative, showing that you share ownership of the code being modified.
+
+• [Go top](#-guidelines) •
 
 #### Provide references
 
@@ -136,9 +197,13 @@ Don't assume that the author knows exactly what you are talking about. To suppor
 
 Sharing some references can also benefit the other reviewers.
 
+• [Go top](#-guidelines) •
+
 #### Review test code first
 
 Tests are mini use cases of the code that you can drill into. It will help you understand the intent of the author very quickly (could be just by looking at the names of the tests).
+
+• [Go top](#-guidelines) •
 
 #### Seek the author's perspective / We always learn
 
@@ -148,6 +213,8 @@ As we all have different levels of experience and expertise, it's natural that w
 
 If something bothers you in the implementation you're reviewing, try to understand the reasons behind the author's choices, assume they have already considered alternative implementations, you could learn something valuable in the process!
 
+• [Go top](#-guidelines) •
+
 #### Don't be a gatekeeper / Improvements have a threshold
 
 Maybe we don't always need to push "perfect" code to production? Maybe a good increment in quality is enough?
@@ -155,6 +222,8 @@ Maybe we don't always need to push "perfect" code to production? Maybe a good in
 Don't place the author in a never-ending cycle of requests for changes, instead, try to strike a balance between code quality, performance, and developer happiness.
 
 Remember that you are in the review to provide feedback, not to be a gatekeeper.
+
+• [Go top](#-guidelines) •
 
 ## 📔 Interactions
 
@@ -226,6 +295,8 @@ Remember that you are in the review to provide feedback, not to be a gatekeeper.
 > It's a bit more complicated, but this is the way that we need to follow now. There are many benefits of doing that, and one of them is to have tests.
 > If you need some help about it, drop me a message.
 
+• [Go top](#-guidelines) •
+
 ## 📔 Profiles
 
 - The terrorist: destroys every piece of code one by one.
@@ -236,6 +307,8 @@ Remember that you are in the review to provide feedback, not to be a gatekeeper.
 - The ghost: was in the PR, or not. Have you seen him?
 - The purist: does not live in a world of tradeoffs and concessions.
 
+• [Go top](#-guidelines) •
+
 ## 📔 Resources
 
 - "The Art of Giving and Receiving Code Reviews (Gracefully)": http://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/
@@ -243,6 +316,8 @@ Remember that you are in the review to provide feedback, not to be a gatekeeper.
 - "A guide for reviewing code and having your code reviewed": https://github.com/thoughtbot/guides/tree/master/code-review
 - "A practical guide for conducting efficient code reviews": https://www.heartinternet.uk/blog/a-practical-guide-for-conducting-efficient-code-reviews/
 - "Feedback Ladders: How We Encode Code Reviews at Netlify": https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/
+
+• [Go top](#-guidelines) •
 
 ### To do
 
