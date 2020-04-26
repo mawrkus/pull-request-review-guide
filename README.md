@@ -18,7 +18,7 @@
 1. For both authors and reviewers
   + [Be respectful / Ask - Explain - Suggest](#)
   + [Stop the "reply" hemorragy / Offer to talk in person](#)
-  + [Give positive feedback / Be grateful](#)
+  + [Offer encouragement & appreciation / Give positive feedback](#)
   + [Agree on a coding style / Automate](#)
 
 2. For the authors
@@ -83,9 +83,11 @@ Once done, post a concise comment to summarize the conversation and to share the
 
 • [Go top](#-guidelines) •
 
-#### Give positive feedback / Be grateful
+#### Offer encouragement & appreciation / Give positive feedback
 
-Whether you've just learned something thanks to one of your peers comment or you've just read an elegant line of code, or just to congratulate the good work, say: "thank you!", "great!", "nice!".
+Code reviews often just focus on mistakes, but they should offer encouragement and appreciation for good practices, as well.
+
+Whether you learned something thanks to one of your peers comment, or if you read an elegant piece of code, or even just to congratulate the good work, say: "thank you!", "great!", "nice!".
 
 It makes a huge difference to receive positive feedback!
 
@@ -228,7 +230,7 @@ Remember that you are in the review to provide feedback, not to be a gatekeeper.
 
 #### Ensure review quality
 
-If don’t feel qualified to do some part of the review, don't hesitate to invite a developer who you think is qualified. Try to ensure that the best possible feedback is always given to the author.
+If don’t feel qualified to do some part of the review, don't hesitate to invite a developer who you think is qualified. Ensure that the best possible feedback is always given to the author.
 
 #### Ask for clarifications
 
