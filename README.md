@@ -9,7 +9,7 @@
 ## 📔 Considerations
 
 - A code review is a dialogue, and as such, it should always be done in a respectful and constructive way.
-- Many programming decisions are opinions. A code review opens a conversation about tradeoffs in order to reach a resolution that everyone is satisfied with.
+- Many programming decisions are opinions. A code review opens a conversation about trade-offs in order to reach a resolution that everyone is satisfied with.
 - A code review is a form of asynchronous communication, so a lot of context (like body language and the opportunity for back-and-forth) is lost.
 - For both authors and reviewers, a code review is a collaborative tool for knowledge spreading and for code quality improvement.
 
@@ -310,7 +310,7 @@ Remember that you are in the review to provide feedback, not to be a gatekeeper.
 - The vague: can be found by following the trail of "What do you mean?" comments.
 - The bull: answers comments by committing new changes.
 - The ghost: was in the PR, or not. Have you seen him?
-- The purist: does not live in a world of tradeoffs and concessions.
+- The purist: does not live in a world of trade-offs and concessions.
 
 • [Go top](#-guidelines) •
 
@@ -321,12 +321,12 @@ Remember that you are in the review to provide feedback, not to be a gatekeeper.
 - "A guide for reviewing code and having your code reviewed": https://github.com/thoughtbot/guides/tree/master/code-review
 - "A practical guide for conducting efficient code reviews": https://www.heartinternet.uk/blog/a-practical-guide-for-conducting-efficient-code-reviews/
 - "Feedback Ladders: How We Encode Code Reviews at Netlify": https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/
+- "Google's Code Review Developer Guide": https://google.github.io/eng-practices/review/
 
 • [Go top](#-guidelines) •
 
 ### To check
 
-- "Code Review Developer Guide": https://google.github.io/eng-practices/review/
 - "Code Reviews: Just Do It": https://blog.codinghorror.com/code-reviews-just-do-it/
 - "How to Do Code Reviews Like a Human (Part One)": https://mtlynch.io/human-code-reviews-1/
 - "Code Review — The Ultimate Guide": https://www.freecodecamp.org/news/code-review-the-ultimate-guide-aa45c358bbf5/
