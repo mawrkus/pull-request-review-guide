@@ -39,6 +39,7 @@
   + [Provide references](#)
   + [Seek the author's perspective / We always learn](#)
   + [Don't be a gatekeeper / Improvements have a threshold](#)
+  + [Are you qualified](#)
   + [What to look for](#)
 
 4. [Interactions](#-interactions)
@@ -125,7 +126,7 @@ Take some time to choose your reviewers. Prior to inviting them, ask yourself:
 
 - Who should I give visibility of the changes being made?
 - Who has time to review my code?
-- Who could give me the best feedback?
+- Who is qualified to give me the best feedback?
 
 • [Go top](#-guidelines) •
 
@@ -221,6 +222,12 @@ Maybe we don't always need to push "perfect" code to production? Maybe a good in
 Don't place the author in a never-ending cycle of requests for changes, instead, try to strike a balance between code quality, performance, and developer happiness.
 
 Remember that you are in the review to provide feedback, not to be a gatekeeper.
+
+• [Go top](#-guidelines) •
+
+#### Are you qualified
+
+If don’t feel qualified to do some part of the review, invite a reviewer who is qualified.
 
 • [Go top](#-guidelines) •
 
