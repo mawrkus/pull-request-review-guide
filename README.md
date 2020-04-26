@@ -30,6 +30,7 @@
   + [Keep it small / Divide and conquer](#)
   + [Rome wasn't built in a day / Create new tasks](#)
   + [Don't take it personally / Keep an open mind](#)
+  + [Fix the code](#)
   + [Leave this world a little better than you found it / The boy scout rule](#)
   + [Answer all comments / Write the end of the story](#)
 
@@ -167,6 +168,14 @@ One of the goal of a code review is to maintain the quality of the code base. Wh
 If you feel offended, ask for explanations before reacting, take some distance, assume the best intention from the reviewer and try to evaluate your code critically, as if someone else had written it.
 
 Always keep in mind that it's not about you, it's about a better code, a better project built with your colleagues, a better software craft.
+
+• [Go top](#-guidelines) •
+
+#### Fix the code
+
+If a reviewer says that they don't understand something in your code, your first response should be to clarify the code itself. If the code can't be clarified, add a code comment that explains why the code is there. If a comment seems pointless, only then should your response be an explanation in the code review.
+
+If a reviewer didn't understand some piece of your code, it's likely other future readers of the code won't understand either. Writing a response in the code review doesn't help future code readers, but clarifying your code or adding code comments does help them.
 
 • [Go top](#-guidelines) •
 
