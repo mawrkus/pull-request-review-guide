@@ -174,7 +174,7 @@ If you find a mess, try to clean it up regardless of who might have made it. By 
 
 #### Answer all comments / Write the end of the story
 
-Be sure to answer all the comments. Not only as matter of respect for you reviewers (after all, they are spending time and energy as well) but also because a review is a conversation and, as such, it should have a conclusion.
+Before closing the review, answer all the comments. Not only as matter of respect for you reviewers (after all, they are spending time and energy as well) but also because a review is a conversation and, as such, it should have clear a conclusion.
 
 • [Go top](#-guidelines) •
 
