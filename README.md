@@ -363,6 +363,7 @@ In general, examine every line of code and make sure to you understand what all 
 
 ### To check
 
+- *"Code can travel thousands of miles and affect many people. I vow to write code mindfully and lovingly. May this code create mutual understanding and peace."*
 - "Code Reviews: Just Do It": https://blog.codinghorror.com/code-reviews-just-do-it/
 - "How to Do Code Reviews Like a Human (Part One)": https://mtlynch.io/human-code-reviews-1/
 - "Code Review — The Ultimate Guide": https://www.freecodecamp.org/news/code-review-the-ultimate-guide-aa45c358bbf5/
