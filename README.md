@@ -33,6 +33,7 @@
   + [Fix the code / Help the future developers](#)
   + [Leave this world a little better than you found it / The boy scout rule](#)
   + [Answer all comments / Write the end of the story](#)
+  + [Practice mindfulness / Love](#)
 
 3. For the reviewers
   + [Empathize / The other person is you](#)
@@ -42,6 +43,7 @@
   + [Don't be a gatekeeper / Improvements have a threshold](#)
   + [Ensure the best review quality](#)
   + [What to look for](#)
+  + [Practice mindfulness / Gratitude](#)
 
 4. [Interactions](#-interactions)
 
@@ -194,6 +196,18 @@ Before closing the review, answer all the comments. Not only as matter of respec
 
 • [Go to top](#-guidelines) •
 
+#### Practice mindfulness / Love
+
+Take a few deep breaths and repeat a mantra that is focused on gratitude and kind speech, for instance:
+
+> Code can travel thousands of miles and affect many people.
+>
+> I vow to write code mindfully and lovingly.
+>
+> May this code create mutual understanding and peace.
+
+Find your own mantras and spread the love!
+
 ### 👓 For the reviewers
 
 #### Empathize / The other person is you
@@ -258,6 +272,20 @@ In general, examine every line of code and make sure to you understand what all 
 - **Comments:** Did the author wrote clear and useful comments in understandable English? Do they explain the "why?" instead of the "what".
 - **Consistency:** Does the code follow the existing agreements about style, naming, files organization, etc.?
 - **Documentation:** If the code changes how users build, test, interact with, or release code, check that the relevant documentation is also updated, deleted or added.
+
+#### Practice mindfulness / Gratitude
+
+Take a few deep breaths and repeat a mantra that is focused on gratitude and kind speech, for instance:
+
+> Reviewing this code,
+>
+> I am grateful to those that wrote it
+>
+> and for the tools that were used to write it.
+>
+> May this code bring health, peace, and well-being.
+
+Find your own mantras and spread the love!
 
 ## 📔 Interactions
 
@@ -351,12 +379,12 @@ In general, examine every line of code and make sure to you understand what all 
 - "A practical guide for conducting efficient code reviews": https://www.heartinternet.uk/blog/a-practical-guide-for-conducting-efficient-code-reviews/
 - "Feedback Ladders: How We Encode Code Reviews at Netlify": https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/
 - "Google's Code Review Developer Guide": https://google.github.io/eng-practices/review/
+- "Mindful Code Exercises": https://dev.to/kev_mcg/mindful-code-exercises
 
 • [Go to top](#-guidelines) •
 
 ### To check
 
-- https://dev.to/kev_mcg/mindful-code-exercises: *"Code can travel thousands of miles and affect many people. I vow to write code mindfully and lovingly. May this code create mutual understanding and peace."*
 - "Code Reviews: Just Do It": https://blog.codinghorror.com/code-reviews-just-do-it/
 - "How to Do Code Reviews Like a Human (Part One)": https://mtlynch.io/human-code-reviews-1/
 - "Code Review — The Ultimate Guide": https://www.freecodecamp.org/news/code-review-the-ultimate-guide-aa45c358bbf5/
