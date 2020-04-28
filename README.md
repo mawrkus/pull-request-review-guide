@@ -40,8 +40,7 @@
   + [Provide references](#)
   + [Seek the author's perspective / We always learn](#)
   + [Don't be a gatekeeper / Improvements have a threshold](#)
-  + [Ensure review quality](#)
-  + [Ask for code clarifications](#)
+  + [Ensure the best review quality](#)
   + [What to look for](#)
 
 4. [Interactions](#-interactions)
@@ -243,15 +242,9 @@ Remember that you are in the review to provide feedback, not to be a gatekeeper.
 
 • [Go to top](#-guidelines) •
 
-#### Ensure review quality
+#### Ensure the best review quality
 
 If don’t feel qualified to do some part of the review, don't hesitate to invite a developer who you think is qualified. Ensure that the best possible feedback is always given to the author.
-
-#### Ask for code clarifications
-
-If you can’t understand the code, it’s very likely that other developers won’t either. Should it be the case, ask the author to clarify the code, this will also help future developers to understand it.
-
-• [Go to top](#-guidelines) •
 
 #### What to look for
 
