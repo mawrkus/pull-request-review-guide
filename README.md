@@ -260,6 +260,8 @@ Remember that you are in the review to provide feedback, not to be a gatekeeper.
 
 If don’t feel qualified to do some part of the review, don't hesitate to invite a developer who you think is qualified. Ensure that the best possible feedback is always given to the author.
 
+• [Go to top](#-guidelines) •
+
 #### What to look for
 
 In general, examine every line of code and make sure you understand what all the code is doing. In particular, take into considerations these specific points:
@@ -272,6 +274,8 @@ In general, examine every line of code and make sure you understand what all the
 - **Comments:** Did the author wrote clear and useful comments? Do they explain the "why?" instead of the "what".
 - **Consistency:** Does the code follow the existing agreements about style, naming, files organization, etc.?
 - **Documentation:** If the code changes how users build, test, interact with, or release code, check that the relevant documentation is also updated, deleted or added.
+
+• [Go to top](#-guidelines) •
 
 #### Practice mindfulness / Gratitude
 
@@ -286,6 +290,8 @@ Take a few deep breaths... Repeat a mantra that is focused on gratitude and kind
 > May this code bring health, peace, and well-being.
 
 Find your own mantras and spread the love!
+
+• [Go to top](#-guidelines) •
 
 ## 📔 Interactions
 
