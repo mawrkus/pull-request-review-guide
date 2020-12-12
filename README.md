@@ -30,7 +30,7 @@
   + [Keep it small / Divide and conquer](#keep-it-small--divide-and-conquer)
   + [Rome wasn't built in a day / Create new tasks](#rome-wasnt-built-in-a-day--create-new-tasks)
   + [Don't take it personally / Keep an open mind](#dont-take-it-personally--keep-an-open-mind)
-  + [Fix the code / Help the future developers](#fix-the-code--help-future-developers)
+  + [Clarify the code first / Help future developers](#clarify-the-code-first--help-future-developers)
   + [Leave this world a little better than you found it / The boy scout rule](#leave-this-world-a-little-better-than-you-found-it--the-boy-scout-rule)
   + [Answer all comments / Write the end of the story](#answer-all-comments--write-the-end-of-the-story)
   + [Practice mindfulness / Love](#practice-mindfulness--love)
@@ -172,7 +172,7 @@ Always keep in mind that it's not about you, it's about a better code, a better 
 
 • [Go to top](#-guidelines) •
 
-#### Fix the code / Help future developers
+#### Clarify the code first / Help future developers
 
 If a reviewer says that they don't understand something in your code, your first response should be to clarify the code itself. If the code can't be clarified, add a code comment that explains why the code is there. If a comment seems pointless, only then should your response be an explanation in the code review.
 
