@@ -210,7 +210,7 @@ Find your own mantras and spread the love!
 
 ### 👓 For the reviewers
 
-#### Empathize / Critique the work, not the author
+#### Empathize / The other person is you
 
 Always consider the potential impact of your words, not just their original intent. Ask yourself how you would react to the words you're about to post. Take some time to write comments that are not only helpful but also kind, the other person is you ;)
 
