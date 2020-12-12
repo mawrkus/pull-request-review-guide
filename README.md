@@ -16,34 +16,34 @@
 ## 📔 Guidelines
 
 1. For both authors and reviewers
-  + [Be respectful / Ask - Explain - Suggest](#)
-  + [Stop the "reply" hemorragy / Offer to talk in person](#)
-  + [Offer encouragement & appreciation / Give positive feedback](#)
-  + [Agree on a coding style / Automate](#)
+  + [Be respectful / Ask - Explain - Suggest](#be-respectful--ask---explain---suggest)
+  + [Stop the "reply" hemorragy / Offer to talk in person](#stop-the-reply-hemorragy--offer-to-talk-in-person)
+  + [Offer encouragement & appreciation / Give positive feedback](#offer-encouragement--appreciation--give-positive-feedback)
+  + [Agree on a coding style / Automate](#agree-on-a-coding-style--automate)
 
 2. For the authors
-  + [And the first reviewer is... you / Assess your code](#)
-  + [Be proactive / Provide context](#)
-  + [Wait for the green light](#)
-  + [Choose your audience](#)
-  + [Choose the right number of reviewers](#)
-  + [Keep it small / Divide and conquer](#)
-  + [Rome wasn't built in a day / Create new tasks](#)
-  + [Don't take it personally / Keep an open mind](#)
-  + [Fix the code / Help the future developers](#)
-  + [Leave this world a little better than you found it / The boy scout rule](#)
-  + [Answer all comments / Write the end of the story](#)
-  + [Practice mindfulness / Love](#)
+  + [And the first reviewer is... you / Assess your code](#and-the-first-reviewer-is-you--assess-your-code)
+  + [Be proactive / Provide context](#be-proactive--provide-context)
+  + [Wait for the green light](#wait-for-the-green-light)
+  + [Choose your audience](#choose-your-audience)
+  + [Choose the right number of reviewers](#choose-the-right-number-of-reviewers)
+  + [Keep it small / Divide and conquer](#keep-it-small--divide-and-conquer)
+  + [Rome wasn't built in a day / Create new tasks](#rome-wasnt-built-in-a-day--create-new-tasks)
+  + [Don't take it personally / Keep an open mind](#dont-take-it-personally--keep-an-open-mind)
+  + [Fix the code / Help the future developers](#fix-the-code--help-future-developers)
+  + [Leave this world a little better than you found it / The boy scout rule](#leave-this-world-a-little-better-than-you-found-it--the-boy-scout-rule)
+  + [Answer all comments / Write the end of the story](#answer-all-comments--write-the-end-of-the-story)
+  + [Practice mindfulness / Love](#practice-mindfulness--love)
 
 3. For the reviewers
-  + [Empathize / The other person is you](#)
-  + [Avoid selective ownership / It's ours](#)
-  + [Provide references](#)
-  + [Seek the author's perspective / We always learn](#)
-  + [Don't be a gatekeeper / Improvements have a threshold](#)
-  + [Ensure the best review quality](#)
-  + [What to look for](#)
-  + [Practice mindfulness / Gratitude](#)
+  + [Empathize / The other person is you](#empathize--the-other-person-is-you)
+  + [Avoid selective ownership / It's ours](#avoid-selective-ownership--its-our-code)
+  + [Provide references](#provide-references)
+  + [Seek the author's perspective / We always learn](#seek-the-authors-perspective--we-always-learn)
+  + [Don't be a gatekeeper / Improvements have a threshold](#dont-be-a-gatekeeper--improvements-have-a-threshold)
+  + [Ensure the best review quality](#ensure-the-best-review-quality)
+  + [What to look for](#what-to-look-for)
+  + [Practice mindfulness / Gratitude](#practice-mindfulness--gratitude)
 
 4. [Interactions](#-interactions)
 
@@ -288,6 +288,8 @@ Take a few deep breaths... Repeat a mantra that is focused on gratitude and kind
 Find your own mantras and spread the love!
 
 ## 📔 Interactions
+
+In the following interactions, can you spot which guideline applies?
 
 ### 1
 
