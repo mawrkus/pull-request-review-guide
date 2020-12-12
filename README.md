@@ -164,7 +164,7 @@ Remember that, the longer a review takes, the more the changes, the higher are t
 
 #### Don't take it personally / Keep an open mind
 
-One of the goal of a code review is to maintain the quality of the code base. When a reviewer provides a critique of your code, think of it as their attempt to help you, rather than as a personal attack on you or your abilities.
+One of the goals of a code review is to maintain the quality of the code base. When a reviewer provides a critique of your code, think of it as their attempt to help you, rather than as a personal attack on you or your abilities.
 
 If you feel offended, ask for explanations before reacting, take some distance, assume the best intention from the reviewer and try to evaluate your code critically, as if someone else had written it.
 
