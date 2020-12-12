@@ -150,7 +150,7 @@ To prevent this, you can start with a few core reviewers to receive the main fee
 
 Small successive PRs, each one focused on a single change, will be reviewed more quickly and more thoroughly.
 
-Try to organize your work in order to be able to break a complex task into a succession of simpler ones. Your reviewers will thank you for not stealing a lot of their time and you will benefit of a faster and better feedback.
+Try to organize your work in order to be able to break a complex task into a succession of simpler ones. Value your reviewers time, they will thank you and you will benefit of a faster and better feedback.
 
 • [Go to top](#-guidelines) •
 
