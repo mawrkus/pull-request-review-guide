@@ -129,7 +129,7 @@ Save time for everyone: if your CI/CD pipeline has a test stage, wait until all 
 
 Take some time to choose your reviewers. Prior to inviting them, ask yourself:
 
-- Who should I give visibility of the changes being made?
+- Who should I give visibility of the changes being made? Who could be impacted by those changes?
 - Who has time to review my code?
 - Who is qualified to give me the best feedback?
 
