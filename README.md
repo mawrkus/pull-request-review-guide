@@ -22,7 +22,7 @@
   + [Agree on a coding style / Automate](#agree-on-a-coding-style--automate)
 
 2. For the authors
-  + [And the first reviewer is... you / Assess your code](#and-the-first-reviewer-is-you--assess-your-code)
+  + [And the first reviewer is... you! / Assess your code](#and-the-first-reviewer-is-you--assess-your-code)
   + [Be proactive / Provide context](#be-proactive--provide-context)
   + [Wait for the green light](#wait-for-the-green-light)
   + [Choose your audience](#choose-your-audience)
