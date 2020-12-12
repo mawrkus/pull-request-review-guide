@@ -210,7 +210,7 @@ Find your own mantras and spread the love!
 
 ### 👓 For the reviewers
 
-#### Empathize / The other person is you
+#### Empathize / Critique the work, not the author
 
 Always consider the potential impact of your words, not just their original intent. Ask yourself how you would react to the words you're about to post. Take some time to write comments that are not only helpful but also kind, the other person is you ;)
 
@@ -378,21 +378,12 @@ Find your own mantras and spread the love!
 - "8 Causes of Miscommunication and Misunderstanding" https://www.userlike.com/en/blog/causes-of-miscommunication
 - "A guide for reviewing code and having your code reviewed": https://github.com/thoughtbot/guides/tree/master/code-review
 - "A practical guide for conducting efficient code reviews": https://www.heartinternet.uk/blog/a-practical-guide-for-conducting-efficient-code-reviews/
-- "Feedback Ladders: How We Encode Code Reviews at Netlify": https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/
+- "Code Reviews: Just Do It": https://blog.codinghorror.com/code-reviews-just-do-it/
+- "How to Do Code Reviews Like a Human (Part One)": https://mtlynch.io/human-code-reviews-1/
+feedback-ladders-how-we-encode-code-reviews-at-netlify/
 - "Google's Code Review Developer Guide": https://google.github.io/eng-practices/review/
+- "Best Practices for Peer Code Review ": https://www.kessler.de/prd/smartbear/BestPracticesForPeerCodeReview.pdf
+- "Feedback Ladders: How We Encode Code Reviews at Netlify": https://www.netlify.com/blog/2020/03/05/
 - "Mindful Code Exercises": https://dev.to/kev_mcg/mindful-code-exercises
 
 • [Go to top](#-guidelines) •
-
-### To check
-
-- "Code Reviews: Just Do It": https://blog.codinghorror.com/code-reviews-just-do-it/
-- "How to Do Code Reviews Like a Human (Part One)": https://mtlynch.io/human-code-reviews-1/
-- "Code Review — The Ultimate Guide": https://www.freecodecamp.org/news/code-review-the-ultimate-guide-aa45c358bbf5/
-- "Best Practices for Peer Code Review ": https://www.kessler.de/prd/smartbear/BestPracticesForPeerCodeReview.pdf
-- https://dev.to/jnschrag/10-lessons-learned-conducting-code-reviews-5di6
-- https://www.ibm.com/developerworks/rational/library/11-proven-practices-for-peer-review/index.html
-- https://www.processimpact.com/articles/humanizing_reviews.pdf
-- https://www.smashingmagazine.com/2018/07/collaboration-designers-code-review-process/
-
-- Again: http://www.alexandra-hill.com/2018/06/25/
