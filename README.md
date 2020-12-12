@@ -71,7 +71,7 @@ Instead:
 
 Respect and humility remove all frictions. Clarity dissipes all doubts about your intentions. Suggesting creates the conditions for improvement.
 
-At the end, the goal is to have better, more meaningful conversations and saving time and energy.
+At the end, the goal is to have better, more meaningful conversations and to save time and energy.
 
 • [Go to top](#-guidelines) •
 
@@ -87,9 +87,9 @@ Once done, post a concise comment to summarize the conversation and to share the
 
 #### Offer encouragement & appreciation / Give positive feedback
 
-Code reviews often just focus on mistakes, but they should offer encouragement and appreciation for good practices, as well.
+Code reviews often just focus on mistakes, but they should also offer encouragement and appreciation for good practices.
 
-Whether you learned something thanks to one of your peers comment, or if you read an elegant piece of code, or even just to congratulate the good work, say: "thank you!", "great!", "nice!".
+Whether you learned something thanks to a comment written by one of your peers, or when you read an elegant piece of code, or even just to congratulate the good work, say: "thank you!", "great!", "nice!".
 
 It makes a huge difference to receive positive feedback!
 
@@ -97,7 +97,7 @@ It makes a huge difference to receive positive feedback!
 
 #### Agree on a coding style / Automate
 
- Conversations about coding style can be long and unproductive. After all, it's a matter of personal taste and everyone has their own preference.
+ Conversations about coding style are often long and unproductive. After all, it's a matter of personal taste and everyone has their own preference.
 
  This is why it's important to find a coding style that your team can adhere to and to use automation tools to ensure that it is being followed (code formatters, linters). By removing the personal tastes from the review, everyone can focus on what's most important: code quality and best practices.
 
@@ -137,10 +137,10 @@ Take some time to choose your reviewers. Prior to inviting them, ask yourself:
 
 #### Choose the right number of reviewers
 
-Be inclusive, but not too much. Having a large number of reviewers could lead to:
+Be inclusive, but not too much. Having a large number of reviewers might lead to:
 
-- too many comments and/or too many suggestions going into too many different directions,
-- too few comments, when everyone thinks someone will take care of reviewing.
+- too many comments/suggestions going into too many different directions,
+- too few comments, when everyone thinks someone will take care of the review.
 
 To prevent this, you can start with a few core reviewers to receive the main feedback, then add more people, to give them visibility.
 
@@ -150,13 +150,13 @@ To prevent this, you can start with a few core reviewers to receive the main fee
 
 Small successive PRs, each one focused on a single change, will be reviewed more quickly and more thoroughly.
 
-Always try to organize your work in order to be able to break a complex task into a succession of simpler ones. Your reviewers will thank you for not stealing all their time and you will benefit of a faster and better feedback!
+Try to organize your work in order to be able to break a complex task into a succession of simpler ones. Your reviewers will thank you for not stealing a lot of their time and you will benefit of a faster and better feedback.
 
 • [Go to top](#-guidelines) •
 
 #### Rome wasn't built in a day / Create new tasks
 
-If the need for a big refactoring or substantial changes arise during the review, create directly a new task and add a link to it in the review.
+If the need for a big refactoring or substantial changes arise during the review, create a new task and add a link to it in the review.
 
 Remember that, the longer a review takes, the more the changes, the higher are the risks for merge conflicts, and for a decrease in motivation for everyone participating in the review.
 
@@ -168,11 +168,11 @@ One of the goal of a code review is to maintain the quality of the code base. Wh
 
 If you feel offended, ask for explanations before reacting, take some distance, assume the best intention from the reviewer and try to evaluate your code critically, as if someone else had written it.
 
-Always keep in mind that it's not about you, it's about a better code, a better project built with your colleagues, a better software craft.
+Always keep in mind that it's not about you, it's about a better code, a better project built with your colleagues.
 
 • [Go to top](#-guidelines) •
 
-#### Fix the code / Help the future developers
+#### Fix the code / Help future developers
 
 If a reviewer says that they don't understand something in your code, your first response should be to clarify the code itself. If the code can't be clarified, add a code comment that explains why the code is there. If a comment seems pointless, only then should your response be an explanation in the code review.
 
@@ -192,13 +192,13 @@ If you find a mess, try to clean it up regardless of who might have made it. By 
 
 #### Answer all comments / Write the end of the story
 
-Before closing the review, answer all the comments. Not only as matter of respect for you reviewers (after all, they are spending time and energy as well) but also because a review is a conversation and, as such, it should have clear a conclusion.
+Before closing the review, answer all the comments. Not only as matter of respect for you reviewers (after all, they are spending time and energy as well) but also because a review is a dialogue and, as such, it should have clear a conclusion.
 
 • [Go to top](#-guidelines) •
 
 #### Practice mindfulness / Love
 
-Take a few deep breaths and repeat a mantra that is focused on gratitude and kind speech, for instance:
+Take a few deep breaths... Repeat a mantra that is focused on gratitude and kind speech, for instance:
 
 > Code can travel thousands of miles and affect many people.
 >
@@ -216,7 +216,7 @@ Always consider the potential impact of your words, not just their original inte
 
 • [Go to top](#-guidelines) •
 
-#### Avoid selective ownership / It's ours
+#### Avoid selective ownership / It's our code!
 
 Instead of using words like: "your", "mine", "not mine", which could be interpreted as finger-pointing, prefer the more inclusives "our" and "we".
 
@@ -226,7 +226,7 @@ Rephrase any comment to be more collaborative, showing that you share ownership 
 
 #### Provide references
 
-Don't assume that the author knows exactly what you are talking about. To support your comment/suggestion, don't hesitate to add:
+Don't assume that the author knows exactly what you are talking about. To support your comment/suggestion, add:
 
 - a code sample,
 - a link to relevant documentation,
@@ -242,7 +242,7 @@ Sharing some references can also benefit the other reviewers.
 
 If something bothers you in the code you're reviewing, try to understand the reasons behind the author's choices.
 
-Keep in mind that, often, the author is closer to the code than you are, and so they might really have a better insight about certain aspects of it ;)
+Keep in mind that, often, the author is closer to the code than you are, and so they might really have a better insight about certain aspects of it.
 
 • [Go to top](#-guidelines) •
 
@@ -250,7 +250,7 @@ Keep in mind that, often, the author is closer to the code than you are, and so 
 
 Maybe we don't always need to push "perfect" code to production? Maybe a good increment in quality is enough?
 
-Don't place the author in a never-ending cycle of requests for changes, instead, try to strike a balance between code quality, performance, and developer happiness.
+Don't place the author in a never-ending cycle of requests for changes. Instead, try to strike a balance between code quality, performance, and developer happiness.
 
 Remember that you are in the review to provide feedback, not to be a gatekeeper.
 
@@ -262,20 +262,20 @@ If don’t feel qualified to do some part of the review, don't hesitate to invit
 
 #### What to look for
 
-In general, examine every line of code and make sure to you understand what all the code is doing. In particular, take into considerations these specific points:
+In general, examine every line of code and make sure you understand what all the code is doing. In particular, take into considerations these specific points:
 
 - **Design:** Do the interactions of the various pieces of code make sense? Does this change integrate well with the rest of the code base? Is now a good time to add this functionality?
 - **Functionality:** Does this code do what the author intended? Is what the author intended good for the users of this code (end-users AND developers)?
 - **Complexity:** Can the code be understood quickly? Will developers be likely to introduce bugs when they try to call or modify this code? Is it over-engineered? Is it trying to solve a problem that the author speculates might need to be solved in the future instead of solving the problem they know needs to be solved now?
 - **Tests:** Does the code have appropriate unit tests? Are they correct, sensible and useful? Review them first, they will help you understand the intent of the author very quickly (could be just by looking at their names).
 - **Naming:** Did the author pick good names for everything? Long enough to fully communicate what the item is or does, without being so long that it becomes hard to read?
-- **Comments:** Did the author wrote clear and useful comments in understandable English? Do they explain the "why?" instead of the "what".
+- **Comments:** Did the author wrote clear and useful comments? Do they explain the "why?" instead of the "what".
 - **Consistency:** Does the code follow the existing agreements about style, naming, files organization, etc.?
 - **Documentation:** If the code changes how users build, test, interact with, or release code, check that the relevant documentation is also updated, deleted or added.
 
 #### Practice mindfulness / Gratitude
 
-Take a few deep breaths and repeat a mantra that is focused on gratitude and kind speech, for instance:
+Take a few deep breaths... Repeat a mantra that is focused on gratitude and kind speech, for instance:
 
 > Reviewing this code,
 >
@@ -374,6 +374,7 @@ Find your own mantras and spread the love!
 ## 📔 Resources
 
 - "The Art of Giving and Receiving Code Reviews (Gracefully)": http://www.alexandra-hill.com/2018/06/25/the-art-of-giving-and-receiving-code-reviews/
+- "How to Make Your Code Reviewer Fall in Love with You": https://mtlynch.io/code-review-love
 - "8 Causes of Miscommunication and Misunderstanding" https://www.userlike.com/en/blog/causes-of-miscommunication
 - "A guide for reviewing code and having your code reviewed": https://github.com/thoughtbot/guides/tree/master/code-review
 - "A practical guide for conducting efficient code reviews": https://www.heartinternet.uk/blog/a-practical-guide-for-conducting-efficient-code-reviews/
