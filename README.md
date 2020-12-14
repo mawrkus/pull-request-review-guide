@@ -37,7 +37,7 @@
 
 3. For the reviewers
   + [Empathize / The other person is you](#empathize--the-other-person-is-you)
-  + [Avoid selective ownership / It's ours](#avoid-selective-ownership--its-our-code)
+  + [Avoid selective ownership / It's our code!](#avoid-selective-ownership--its-our-code)
   + [Provide references](#provide-references)
   + [Seek the author's perspective / We always learn](#seek-the-authors-perspective--we-always-learn)
   + [Don't be a gatekeeper / Improvements have a threshold](#dont-be-a-gatekeeper--improvements-have-a-threshold)
