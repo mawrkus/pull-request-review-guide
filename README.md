@@ -57,16 +57,16 @@
 
 Always be considerate and respectful, specifically:
 
-- don't use the imperative,
-- don't judge,
-- don't blame (don't even think about cursing),
-- don't be arrogant,
+- don't use the imperative
+- don't judge
+- don't blame (don't even think about cursing)
+- don't be arrogant
 - don't use sarcasm.
 
 Instead:
 
-- ask questions, assuming that everyone is intelligent and well-meaning,
-- explain your point of view in an explicit manner, even if it's a bit more verbose,
+- ask questions, assuming that everyone is intelligent and well-meaning
+- explain your point of view in an explicit manner, even if it's a bit more verbose
 - suggest.
 
 Respect and humility remove all frictions. Clarity dispels all doubts about your intentions. Suggesting creates the conditions for improvement.
@@ -236,10 +236,10 @@ Rephrase any comment to be more collaborative, showing that you share ownership 
 
 Don't assume that the author knows exactly what you are talking about. To support your comment/suggestion, add:
 
-- a code sample,
-- a link to relevant documentation,
-- a link to a previous review,
-- a link to a blog post on the topic,
+- a code sample
+- a link to relevant documentation
+- a link to a previous review
+- a link to a blog post on the topic
 - a link to a GitHub repository.
 
 Sharing some references can also benefit the other reviewers.
