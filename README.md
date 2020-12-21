@@ -17,7 +17,7 @@
 
 1. For both authors and reviewers
   + [Be respectful / Ask - Explain - Suggest](#be-respectful--ask---explain---suggest)
-  + [Stop the "reply" hemorragy / Offer to talk in person](#stop-the-reply-hemorragy--offer-to-talk-in-person)
+  + [Stop the "reply" hemorrhage / Offer to talk in person](#stop-the-reply-hemorrhage--offer-to-talk-in-person)
   + [Offer encouragement & appreciation / Give positive feedback](#offer-encouragement--appreciation--give-positive-feedback)
   + [Agree on a coding style / Automate](#agree-on-a-coding-style--automate)
 
@@ -69,13 +69,13 @@ Instead:
 - explain your point of view in an explicit manner, even if it's a bit more verbose,
 - suggest.
 
-Respect and humility remove all frictions. Clarity dissipes all doubts about your intentions. Suggesting creates the conditions for improvement.
+Respect and humility remove all frictions. Clarity dispels all doubts about your intentions. Suggesting creates the conditions for improvement.
 
 At the end, the goal is to have better, more meaningful conversations and to save time and energy.
 
 • [Go to top](#-guidelines) •
 
-#### Stop the "reply" hemorragy / Offer to talk in person
+#### Stop the "reply" hemorrhage / Offer to talk in person
 
 Many replies to a comment might be the symptom of miscommunication, misunderstanding or lack of knowledge. They can create a lot of noise for everyone participating in the review, as well as frustration.
 
@@ -107,7 +107,7 @@ It makes a huge difference to receive positive feedback!
 
 #### And the first reviewer is... you! / Assess your code
 
-After creating the pull request (PR) and before inviting anyone, take some time to assess your own code. Reviewing your changes outside of your IDE could help you spotting inconstencies, mistakes, missing parts, or even finding easier ways to solve the problem at hand.
+After creating the pull request (PR) and before inviting anyone, take some time to assess your own code. Reviewing your changes outside of your IDE could help you spotting inconsistencies, mistakes, missing parts, or even finding easier ways to solve the problem at hand.
 
 • [Go to top](#-guidelines) •
 
@@ -121,7 +121,7 @@ If there are many changes, highlight the most important parts.
 
 #### Wait for the green light
 
-Save time for everyone: if your CI/CD pipeline has a test stage, wait until all tests have passed before inviting ayone to the review. You don't want the first comment to be "The build is failing :/".
+Save time for everyone: if your CI/CD pipeline has a test stage, wait until all tests have passed before inviting anyone to the review. You don't want the first comment to be "The build is failing :/".
 
 • [Go to top](#-guidelines) •
 
@@ -226,7 +226,7 @@ Always consider the potential impact of your words, not just their original inte
 
 #### Avoid selective ownership / It's our code!
 
-Instead of using words like: "your", "mine", "not mine", which could be interpreted as finger-pointing, prefer the more inclusives "our" and "we".
+Instead of using words like: "your", "mine", "not mine", which could be interpreted as finger-pointing, prefer the more inclusive "our" and "we" ones.
 
 Rephrase any comment to be more collaborative, showing that you share ownership of the code being modified.
 
@@ -308,7 +308,7 @@ In the following interactions, can you spot which guideline applies?
 ### 1
 
 > Alan:
-> Please dont do this, you are actually creating a layer that the application does not require, and don't say that is temporary, because it isn't.
+> Please don't do this, you are actually creating a layer that the application does not require, and don't say that is temporary, because it isn't.
 >
 > Billy:
 > I don't understand.
@@ -361,7 +361,7 @@ In the following interactions, can you spot which guideline applies?
 ### 6
 
 > Alan:
-> It's not consistent this tracking, because it directly depends on the the provided options.
+> It's not consistent this tracking, because it directly depends on the provided options.
 >
 > Billy:
 > Ok, what do you suggest we should do instead?
@@ -369,7 +369,7 @@ In the following interactions, can you spot which guideline applies?
 ### 7
 
 > Alan:
-> I can imagine why you are putting this fix here now, but our mission is to make the templates simplier, and the only way to accomplish that is to move all the business logic related to the page to the model.
+> I can imagine why you are putting this fix here now, but our mission is to make the templates simpler, and the only way to accomplish that is to move all the business logic related to the page to the model.
 > It's a bit more complicated, but this is the way that we need to follow now. There are many benefits of doing that, and one of them is to have tests.
 > If you need some help about it, drop me a message.
 
