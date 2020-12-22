@@ -167,7 +167,7 @@ Try to organize your work in order to be able to break a complex task into a suc
 If the need for a big refactoring or substantial changes arise during the review, create a new task and add a link to it in the review.
 
 Remember that, the longer a review takes: 
-- the bigger the changes
+- the bigger the number of changes
 - the higher the risks of merge conflicts
 - the greater the probability of demotivating everyone involved in the review.
 
