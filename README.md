@@ -139,7 +139,7 @@ Take some time to choose your reviewers. Prior to inviting them, ask yourself:
 
 Be inclusive, but not too much. Having a large number of reviewers might lead to:
 
-- too many comments/suggestions going into too many different directions,
+- too many comments/suggestions going into too many different directions
 - too few comments, when everyone thinks someone will take care of the review.
 
 To prevent this, you can start with a few core reviewers to receive the main feedback, then add more people, to give them visibility.
