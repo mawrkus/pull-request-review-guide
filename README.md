@@ -65,7 +65,7 @@ Always be considerate and respectful, specifically:
 
 Instead:
 
-- ask questions, assuming that everyone has good intentions and tries to do their best
+- ask questions, assuming that everyone is intelligent and well-meaning
 - explain your point of view in an explicit manner, even if it's a bit more verbose
 - suggest.
 
@@ -187,7 +187,7 @@ Always keep in mind that it's not about you, it's about a better code, a better 
 
 If a reviewer says that they don't understand something in your code, your first response should be to clarify the code itself. If the code can't be clarified, add a code comment that explains why the code is there. If a comment seems pointless, only then should your response be an explanation in the code review.
 
-If a reviewer don't understand some piece of your code, other future readers likely won't understand it either. Writing a response in the code review doesn't help future code readers, but clarifying your code or adding code comments does help them.
+If a reviewer doesn't understand some piece of your code, other future readers likely won't understand it either. Writing a response in the code review doesn't help future code readers, but clarifying your code or adding code comments does help them.
 
 • [Go to top](#-guidelines) •
 
@@ -233,7 +233,7 @@ Always consider the potential impact of your words, not just their original inte
 
 Instead of using words like: "your", "mine", "not mine", which could be interpreted as finger-pointing, prefer the more inclusive "our" and "we" ones.
 
-Rephrase any comment to be more collaborative. After all, it's our code. Do you remember?
+Rephrase any comment to be more collaborative, showing that you share ownership of the code being modified.
 
 • [Go to top](#-guidelines) •
 
@@ -333,7 +333,7 @@ In the following interactions, can you spot which guideline applies?
 > It’s a polyfill used in lazyLoad.js
 >
 > Jamie:
-> Yes I got that, but why not importing there instead of here? I know that the import is not executed always in lazyload.js, but I see it weird... Maybe a require() instead?
+> Yes I got that, but why not importing there instead of here? I know that the import is not executed always in lazyload.js, but I see it weird.. Maybe a require() instead?
 >
 > Billy:
 > Good point, I don’t know actually!
@@ -366,7 +366,7 @@ In the following interactions, can you spot which guideline applies?
 ### 6
 
 > Alan:
-> This tracking is not consistent, because it directly depends on the provided options.
+> It's not consistent this tracking, because it directly depends on the provided options.
 >
 > Billy:
 > Ok, what do you suggest we should do instead?
