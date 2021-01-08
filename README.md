@@ -261,9 +261,9 @@ Keep in mind that, often, the author is closer to the code than you are, and so 
 
 #### Don't be a gatekeeper / Improvements have a threshold
 
-Do we always need to push "perfect" code to production? Is a good quality increase enough?
+Do we always need to push "perfect" code to production? Maybe a good increment in quality is enough?
 
-Don't place the author in a never-ending cycle of change requests. Instead, try to find a balance between code quality, performance, and developer happiness.
+Don't place the author in a never-ending cycle of requests for changes. Instead, try to strike a balance between code quality, performance, and developer happiness.
 
 Remember that you are in the review to provide feedback, not to be a gatekeeper.
 
