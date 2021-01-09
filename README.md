@@ -166,7 +166,10 @@ Try to organize your work in order to be able to break a complex task into a suc
 
 If the need for a big refactoring or substantial changes arise during the review, create a new task and add a link to it in the review.
 
-Remember that, the longer a review takes, the more the changes, the higher are the risks for merge conflicts, and for a decrease in motivation for everyone participating in the review.
+Remember that, the longer a review takes: 
+- the bigger the number of changes
+- the higher the risks of merge conflicts
+- the greater the probability of demotivating everyone involved in the review.
 
 • [Go to top](#-guidelines) •
 
@@ -184,7 +187,7 @@ Always keep in mind that it's not about you, it's about a better code, a better 
 
 If a reviewer says that they don't understand something in your code, your first response should be to clarify the code itself. If the code can't be clarified, add a code comment that explains why the code is there. If a comment seems pointless, only then should your response be an explanation in the code review.
 
-If a reviewer didn't understand some piece of your code, it's likely other future readers of the code won't understand either. Writing a response in the code review doesn't help future code readers, but clarifying your code or adding code comments does help them.
+If a reviewer doesn't understand some piece of your code, other future readers likely won't understand it either. Writing a response in the code review doesn't help future code readers, but clarifying your code or adding code comments does help them.
 
 • [Go to top](#-guidelines) •
 
@@ -201,6 +204,8 @@ If you find a mess, try to clean it up regardless of who might have made it. By 
 #### Answer all comments / Write the end of the story
 
 Before closing the review, answer all the comments. Not only as matter of respect for you reviewers (after all, they are spending time and energy as well) but also because a review is a dialogue and, as such, it should have clear a conclusion.
+
+Moreover, it can be helpful as a reference in the future.
 
 • [Go to top](#-guidelines) •
 
@@ -256,7 +261,7 @@ Keep in mind that, often, the author is closer to the code than you are, and so 
 
 #### Don't be a gatekeeper / Improvements have a threshold
 
-Maybe we don't always need to push "perfect" code to production? Maybe a good increment in quality is enough?
+Do we always need to push "perfect" code to production? Maybe a good increment in quality is enough?
 
 Don't place the author in a never-ending cycle of requests for changes. Instead, try to strike a balance between code quality, performance, and developer happiness.
 
@@ -272,7 +277,7 @@ If don’t feel qualified to do some part of the review, don't hesitate to invit
 
 #### What to look for
 
-In general, examine every line of code and make sure you understand what all the code is doing. In particular, take into considerations these specific points:
+In general, examine every line of code and make sure you understand what all the code is doing. In particular, take into consideration these specific points:
 
 - **Design:** Do the interactions of the various pieces of code make sense? Does this change integrate well with the rest of the code base? Is now a good time to add this functionality?
 - **Functionality:** Does this code do what the author intended? Is what the author intended good for the users of this code (end-users AND developers)?
