@@ -284,7 +284,7 @@ In general, examine every line of code and make sure you understand what all the
 - **Complexity:** Can the code be understood quickly? Will developers be likely to introduce bugs when they try to call or modify this code? Is it over-engineered? Is it trying to solve a problem that the author speculates might need to be solved in the future instead of solving the problem they know needs to be solved now?
 - **Tests:** Does the code have appropriate unit tests? Are they correct, sensible and useful? Review them first, they will help you understand the intent of the author very quickly (could be just by looking at their names).
 - **Naming:** Did the author pick good names for everything? Long enough to fully communicate what the item is or does, without being so long that it becomes hard to read?
-- **Comments:** Did the author wrote clear and useful comments? Do they explain the "why?" instead of the "what".
+- **Comments:** Did the author wrote clear and useful comments? Do they explain the "why?" or the "what" instead of the "how"?
 - **Consistency:** Does the code follow the existing agreements about style, naming, files organization, etc.?
 - **Documentation:** If the code changes how users build, test, interact with, or release code, check that the relevant documentation is also updated, deleted or added.
 
@@ -355,7 +355,7 @@ In the following interactions, can you spot which guideline applies?
 > Alan:
 > Yes.
 >
-> Jamie
+> Jamie:
 > Do you know why?
 
 ### 5
