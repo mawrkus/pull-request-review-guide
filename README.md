@@ -166,7 +166,7 @@ Try to organize your work in order to be able to break a complex task into a suc
 
 If the need for a big refactoring or substantial changes arise during the review, create a new task and add a link to it in the review.
 
-Remember that, the longer a review takes: 
+Remember that, the longer a review takes:
 - the bigger the number of changes
 - the higher the risks of merge conflicts
 - the greater the probability of demotivating everyone involved in the review.
@@ -282,7 +282,7 @@ In general, examine every line of code and make sure you understand what all the
 - **Design:** Do the interactions of the various pieces of code make sense? Does this change integrate well with the rest of the code base? Is now a good time to add this functionality?
 - **Functionality:** Does this code do what the author intended? Is what the author intended good for the users of this code (end-users AND developers)?
 - **Complexity:** Can the code be understood quickly? Will developers be likely to introduce bugs when they try to call or modify this code? Is it over-engineered? Is it trying to solve a problem that the author speculates might need to be solved in the future instead of solving the problem they know needs to be solved now?
-- **Tests:** Does the code have appropriate unit tests? Are they correct, sensible and useful? Review them first, they will help you understand the intent of the author very quickly (could be just by looking at their names).
+- **Tests:** Does the code have appropriate unit tests? Are they correct, sensible and useful? [Review them first](https://github.com/mawrkus/js-unit-testing-guide#-review-test-code-first), they will help you understand the intent of the author very quickly (could be just by looking at their names).
 - **Naming:** Did the author pick good names for everything? Long enough to fully communicate what the item is or does, without being so long that it becomes hard to read?
 - **Comments:** Did the author wrote clear and useful comments? Do they explain the "why?" or the "what" instead of the "how"?
 - **Consistency:** Does the code follow the existing agreements about style, naming, files organization, etc.?
