@@ -387,8 +387,9 @@ In the following interactions, can you spot which guideline applies?
 - The bot: will always approve the PR without any comment. For some, their best friend, for others, the most annoying reviewer.
 - The vague: can be found by following the trail of "What do you mean?" comments.
 - The bull: answers comments by committing new changes.
-- The ghost: was in the PR, or not. Have you seen him?
-- The purist: does not live in a world of trade-offs and concessions.
+- The ghost: was in the PR, or not. Have you seen them?
+- The purist: does not live in a world of trade-offs and concessions. Do they even create PRs?
+- The novelist: loves to explain in great lengths the history, the context and all the nuances that you should definitely know before merging the PR.
 
 • [Go to top](#-guidelines) •
 
