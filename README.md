@@ -46,10 +46,9 @@
   + [Practice mindfulness / Gratitude](#practice-mindfulness--gratitude)
 
 4. [Interactions](#-interactions)
-
 5. [Profiles](#-profiles)
-
 6. [Resources](#-resources)
+7. [Contributors](#-contributors)
 
 ### 🤝 For both authors and reviewers
 
@@ -410,3 +409,9 @@ feedback-ladders-how-we-encode-code-reviews-at-netlify/
 - "Mindful Code Exercises": https://dev.to/kev_mcg/mindful-code-exercises
 
 • [Go to top](#-guidelines) •
+
+## 🫶🏾 Contributors
+
+<a href="https://github.com/mawrkus/pull-request-review-guide/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=mawrkus/pull-request-review-guide" />
+</a>
