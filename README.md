@@ -403,7 +403,6 @@ In the following interactions, can you spot which guideline applies?
 - "How to Do Code Reviews Like a Human (Part One)": https://mtlynch.io/human-code-reviews-1/
 feedback-ladders-how-we-encode-code-reviews-at-netlify/
 - "Google's Code Review Developer Guide": https://google.github.io/eng-practices/review/
-- "Best Practices for Peer Code Review ": https://www.kessler.de/prd/smartbear/BestPracticesForPeerCodeReview.pdf
 - "Conventional comments (comments that are easy to grok and grep)": https://conventionalcomments.org
 - "Feedback Ladders: How We Encode Code Reviews at Netlify": https://www.netlify.com/blog/2020/03/05/
 - "Mindful Code Exercises": https://dev.to/kev_mcg/mindful-code-exercises
