@@ -194,7 +194,7 @@ If a reviewer doesn't understand some piece of your code, other future readers l
 
 Opening a PR is a chance to improve the existing code base: have you noticed a missing test? A method that is too long? Some naming inconsistencies?
 
-You don't have to make a big change or to make the code looks perfect,  just a little bit better than before!
+You don't have to make a big change or to make the code look perfect,  just a little bit better than before!
 
 If you find a mess, try to clean it up regardless of who might have made it. By doing this, you intentionally improve the code base for all the developers, helping the project to get better and better as it evolves.
 
@@ -283,7 +283,7 @@ In general, examine every line of code and make sure you understand what all the
 - **Complexity:** Can the code be understood quickly? Will developers be likely to introduce bugs when they try to call or modify this code? Is it over-engineered? Is it trying to solve a problem that the author speculates might need to be solved in the future instead of solving the problem they know needs to be solved now?
 - **Tests:** Does the code have appropriate unit tests? Are they correct, sensible and useful? [Review them first](https://github.com/mawrkus/js-unit-testing-guide#-review-test-code-first), they will help you understand the intent of the author very quickly (could be just by looking at their names).
 - **Naming:** Did the author pick good names for everything? Long enough to fully communicate what the item is or does, without being so long that it becomes hard to read?
-- **Comments:** Did the author wrote clear and useful comments? Do they explain the "why?" or the "what" instead of the "how"?
+- **Comments:** Did the author write clear and useful comments? Do they explain the "why?" or the "what" instead of the "how"?
 - **Consistency:** Does the code follow the existing agreements about style, naming, files organization, etc.?
 - **Documentation:** If the code changes how users build, test, interact with, or release code, check that the relevant documentation is also updated, deleted or added.
 
